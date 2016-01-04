@@ -1,8 +1,8 @@
 ====================================================
-Subfamilias: agrupaciÃ³n de familias en conjuntos
+Pestaña de estadísticas de venta en el formulario de cliente
 ====================================================
 
-AÃ±ade una nueva subcategorÃ­a dentro de cada familia de artÃ­culos: la subfamilia. Cada subfamilia pertenece a una sola familia, y cada artÃ­culo puede pertenecer a una Ãºnica subfamilia o familia.
+Pestaña de estadísticas de venta en el formulario de cliente
 
 ---------------------
 Capturas de pantalla
