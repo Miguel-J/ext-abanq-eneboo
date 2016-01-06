@@ -15,6 +15,7 @@ Capturas de pantalla
    Edición de criterios de selección.
    
 ------
+
 .. figure:: ./doc/ext0068-resultado-ventas-cliente.jpg
    :width: 500px
    
