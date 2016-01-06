@@ -1,28 +1,17 @@
 ====================================================
-Subfamilias: agrupación de familias en conjuntos
+ESTADISTICAS DE VENTAS: Informe de clientes con datos de ventas por cliente
 ====================================================
 
-Añade una nueva subcategoría dentro de cada familia de artículos: la subfamilia. Cada subfamilia pertenece a una sola familia, y cada artículo puede pertenecer a una única subfamilia o familia.
+Informe de clientes con datos de ventas por cliente
+
 
 ---------------------
 Capturas de pantalla
 ---------------------
 
-.. figure:: ./doc/edicion_subfamilia.png
+.. figure:: ./doc/ext0068-edicion-ventas-cliente.jpg
    :width: 500px
    
-   Edición de subfamilia.
-   
-------
-
-.. figure:: ./doc/edicion_familia.png
-   :width: 500px
-    
-   Edición de familia con nueva pestaña de subfamilias.
+   Edición de criterios de selección.
    
 ------
-
-.. figure:: ./doc/edicion_articulo.png
-   :width: 500px
-    
-   Edición de artículo.
