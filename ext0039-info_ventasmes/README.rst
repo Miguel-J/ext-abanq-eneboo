@@ -1,24 +1,44 @@
 ====================================================
-Subfamilias: agrupación de familias en conjuntos
+Informe de unidades vendidas por mes
 ====================================================
 
-Añade una nueva subcategoría dentro de cada familia de artículos: la subfamilia. Cada subfamilia pertenece a una sola familia, y cada artículo puede pertenecer a una única subfamilia o familia.
+Informe de unidades vendidas por mes
+
+---------------------
+MÓDULOS AFECTADOS
+---------------------
+
+    <modules>
+        <module section="OFICIAL" version="" area="F" name="flfactinfo" />
+        <module section="OFICIAL" version="" area="F" name="flfacturac" />
+        <module section="OFICIAL" version="" area="F" name="flfactppal" />
+        <module section="OFICIAL" version="" area="F" name="flfactalma" />
+    </modules>
+
+
+---------------------
+EXTENSIONES REQUERIDAS
+---------------------
+
+Ninguna
+
+-------
 
 ---------------------
 Capturas de pantalla
 ---------------------
 
-.. figure:: ./doc/edicion_subfamilia.png
+.. figure:: ./doc/ext0039-edicion-criterios-ventas-mes.jpg
    :width: 500px
    
-   Edición de subfamilia.
+   Edición de criterios de selección.
    
 ------
 
-.. figure:: ./doc/edicion_familia.png
+.. figure:: ./doc/ext0039-resultado-informe-ventas-mes.jpg
    :width: 500px
     
-   Edición de familia con nueva pestaña de subfamilias.
+   Resultado-salida de un ejemplo de informe.
    
 ------
 
