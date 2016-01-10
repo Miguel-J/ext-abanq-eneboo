@@ -44,3 +44,10 @@ Capturas de pantalla
    Resultado-salida de un ejemplo de informe.
    
 ------
+
+.. figure:: ./doc/ext0039-icono-menu-ventas-mes.jpg
+   :width: 500px
+    
+   Icono y titulo del menú en informes.
+   
+------
