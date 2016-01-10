@@ -44,8 +44,3 @@ Capturas de pantalla
    Resultado-salida de un ejemplo de informe.
    
 ------
-
-.. figure:: ./doc/edicion_articulo.png
-   :width: 500px
-    
-   Edición de artículo.
