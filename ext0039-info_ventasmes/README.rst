@@ -6,17 +6,20 @@ Informe de unidades vendidas de cada artículo de una familia en cada mes o inte
 Muestra todos los artículos de esa familia.
 Se pueden definir intervalos distintos al mes natural
 
----------------------
-MÓDULOS QUE NECESITAN ESTAR INSTALADOS PREVIAMENTE
----------------------
+
+
+#### Módulos que necesitan estar instalados previamente
+
 
     * "informes" name="flfactinfo"
     * "facturacion" name="flfacturac"
     * "principal" name="flfactppal"
     * "almacen" name="flfactalma"
     
----------------------
-EXTENSIONES INSTALADAS NECESARIAS PREVIAMENTE
+--
+
+####EXTENSIONES INSTALADAS NECESARIAS PREVIAMENTE
+
 ---------------------
 
 Ninguna
