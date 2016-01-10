@@ -1,28 +1,46 @@
 ====================================================
-Pesta�a de estad�sticas de venta en el formulario de cliente
+Pestaña de estadísticas de venta en el formulario de cliente
 ====================================================
 
-Pesta�a de estad�sticas de venta en el formulario de cliente
+
+Pestaña de estadísticas de venta en el formulario de cliente
+
+
+---------------------
+Módulos que necesitan estar instalados previamente
+---------------------
+
+   * "facturacion/facturacion" name="flfacturac"
+   * "facturacion/principal" name="flfactppal"
+   * "facturacion/almacen" name="flfactalma"
+
+---------------------
+Extensiones que necesitan estar instaladas previamente
+---------------------
+
+   * Ninguna
 
 ---------------------
 Capturas de pantalla
 ---------------------
 
-.. figure:: ./doc/edicion_subfamilia.png
+.. figure:: ./doc/ext0337-edicion-criterios-estventascli.jpg
    :width: 500px
    
-   Edición de subfamilia.
-   
-------
-
-.. figure:: ./doc/edicion_familia.png
-   :width: 500px
-    
-   Edición de familia con nueva pestaña de subfamilias.
+   Edición de criterios de selección.
    
 ------
 
-.. figure:: ./doc/edicion_articulo.png
+.. figure:: ./doc/ext0337-resultado-informe-estventascli.jpg
    :width: 500px
     
-   Edición de artículo.
+   Resultado-salida de un ejemplo de informe.
+   
+------
+
+.. figure:: ./doc/ext0337-icono-menu-estventascli.jpg
+   :width: 500px
+    
+   Icono y titulo del menú en informes.
+   
+------
