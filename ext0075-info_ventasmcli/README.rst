@@ -2,9 +2,11 @@
 Informe de ventas mensuales por clientes
 ====================================================
 
-Informe/listado de clientes con el valor de las ventas en cada mes o intervalo
+Informe/listado de clientes con el valor de las ventas en cada mes o intervalo.
 
-Se pueden definir intervalos distintos al mes natural
+Se pueden definir intervalos distintos al mes natural.
+
+Es un listado de clientes donde aparecen los totales facturados desglosado en meses.
 
 ---------------------
 Módulos que necesitan estar instalados previamente
