@@ -23,9 +23,9 @@ Módulos que necesitan estar instalados previamente
 Extensiones que necesitan estar instaladas previamente
 ---------------------
 
-Ninguna
+   * Ninguna
 
--------
+
 
 ---------------------
 Capturas de pantalla
