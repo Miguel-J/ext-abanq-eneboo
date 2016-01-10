@@ -6,6 +6,20 @@ Informe de clientes con datos de ventas por cliente
 
 
 ---------------------
+Módulos que necesitan estar instalados previamente
+---------------------
+
+    * "facturacion/informes" name="flfactinfo"
+
+
+---------------------
+Extensiones que necesitan estar instaladas previamente
+---------------------
+
+   * Ninguna
+
+
+---------------------
 Capturas de pantalla
 ---------------------
 
@@ -20,5 +34,12 @@ Capturas de pantalla
    :width: 500px
    
    Resultado-salida de un ejemplo de informe.
+   
+------
+
+.. figure:: ./doc/ext0068-icono-menu-ventas-cliente.jpg
+   :width: 500px
+    
+   Icono y titulo del menú en informes.
    
 ------
