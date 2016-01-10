@@ -12,10 +12,10 @@ Se pueden definir intervalos distintos al mes natural
 Módulos que necesitan estar instalados previamente
 ---------------------
 
-    * "informes" name="flfactinfo"
-    * "facturacion" name="flfacturac"
-    * "principal" name="flfactppal"
-    * "almacen" name="flfactalma"
+    * "facturacion/informes" name="flfactinfo"
+    * "facturacion/facturacion" name="flfacturac"
+    * "facturacion/principal" name="flfactppal"
+    * "facturacion/almacen" name="flfactalma"
     
 
 
