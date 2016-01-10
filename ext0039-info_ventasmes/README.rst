@@ -1,23 +1,22 @@
 ====================================================
-Informe de unidades vendidas por mes
+Informe de unidades vendidas de cada artículo de una familia en cada mes o intervalo
 ====================================================
 
-Informe de unidades vendidas por mes
+Informe de unidades vendidas de cada artículo de una familia en cada mes o intervalo.
+Muestra todos los artículos de esa familia.
+Se pueden definir intervalos distintos al mes natural
 
 ---------------------
-MÓDULOS AFECTADOS
+MÓDULOS QUE NECESITAN ESTAR INSTALADOS PREVIAMENTE
 ---------------------
 
-    <modules>
-        <module section="OFICIAL" version="" area="F" name="flfactinfo" />
-        <module section="OFICIAL" version="" area="F" name="flfacturac" />
-        <module section="OFICIAL" version="" area="F" name="flfactppal" />
-        <module section="OFICIAL" version="" area="F" name="flfactalma" />
-    </modules>
-
-
+    * "informes" name="flfactinfo"
+    * "facturacion" name="flfacturac"
+    * "principal" name="flfactppal"
+    * "almacen" name="flfactalma"
+    
 ---------------------
-EXTENSIONES REQUERIDAS
+EXTENSIONES INSTALADAS NECESARIAS PREVIAMENTE
 ---------------------
 
 Ninguna
