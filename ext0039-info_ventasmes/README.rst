@@ -8,18 +8,19 @@ Se pueden definir intervalos distintos al mes natural
 
 
 
-#### Módulos que necesitan estar instalados previamente
-
+---------------------
+Módulos que necesitan estar instalados previamente
+---------------------
 
     * "informes" name="flfactinfo"
     * "facturacion" name="flfacturac"
     * "principal" name="flfactppal"
     * "almacen" name="flfactalma"
     
---
 
-####EXTENSIONES INSTALADAS NECESARIAS PREVIAMENTE
 
+---------------------
+Extensiones que necesitan estar instaladas previamente
 ---------------------
 
 Ninguna
