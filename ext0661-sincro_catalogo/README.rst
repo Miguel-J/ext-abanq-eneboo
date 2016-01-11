@@ -1,8 +1,22 @@
 ====================================================
-Subfamilias: agrupación de familias en conjuntos
+Sincronización de familias y artículos de una BD a otra
 ====================================================
 
-Añade una nueva subcategoría dentro de cada familia de artículos: la subfamilia. Cada subfamilia pertenece a una sola familia, y cada artículo puede pertenecer a una única subfamilia o familia.
+Sincronización de familias y artículos de una BD a otra
+
+
+    <modules>
+        <module section="OFICIAL" version="" area="F" name="flfactppal" />
+        <module section="OFICIAL" version="" area="F" name="flfactteso" />
+        <module section="OFICIAL" version="" area="F" name="flfacturac" />
+        <module section="OFICIAL" version="" area="F" name="flfactalma" />
+        <module section="OFICIAL" version="" area="F" name="flfactinfo" />
+    </modules>
+    <extensions>
+        <extension version="" code="0003" name="pesos_medidas" pos="0" />
+        <extension version="" code="0031" name="articulos_comp" pos="100" />
+    </extensions>
+
 
 ---------------------
 Capturas de pantalla
