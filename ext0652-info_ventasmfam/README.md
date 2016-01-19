@@ -1,8 +1,23 @@
 ====================================================
-Subfamilias: agrupación de familias en conjuntos
+Informe de ventas mensuales por familias
 ====================================================
 
-Añade una nueva subcategoría dentro de cada familia de artículos: la subfamilia. Cada subfamilia pertenece a una sola familia, y cada artículo puede pertenecer a una única subfamilia o familia.
+Informe de ventas mensuales por familias
+
+
+---------------------
+Módulos que necesitan estar instalados previamente
+---------------------
+
+    * "facturacion/informes" name="flfactinfo"
+
+
+---------------------
+Extensiones que necesitan estar instaladas previamente
+---------------------
+
+   * Ninguna
+
 
 ---------------------
 Capturas de pantalla
@@ -11,14 +26,14 @@ Capturas de pantalla
 .. figure:: ./doc/edicion_subfamilia.png
    :width: 500px
    
-   Edición de subfamilia.
+   Edición de informe.
    
 ------
 
 .. figure:: ./doc/edicion_familia.png
    :width: 500px
     
-   Edición de familia con nueva pestaña de subfamilias.
+   Edición de informe.
    
 ------
 
