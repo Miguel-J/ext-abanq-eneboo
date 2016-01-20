@@ -16,22 +16,18 @@
 * [ext0039-info_ventasmes](./ext0039-info_ventasmes) 
 
 ![imagen resultado] (./ext0039-info_ventasmes/doc/ext0039-icono-menu-ventas-mes.jpg)
-
 --
 * [ext0068-info_ventascli](./ext0068-info_ventascli) 
 
 ![imagen resultado] (./ext0068-info_ventascli/doc/ext0068-resultado-ventas-cliente.jpg)
-
 --
 * [ext0075-info_ventasmcli](./ext0075-info_ventasmcli) 
 
 ![imagen resultado] (./ext0075-info_ventasmcli/doc/ext0075-resultado-informe-ventasmcli.jpg)
-
 --
 * [ext0337-estventascli](./ext0337-estventascli) 
 
 ![imagen resultado] (./ext0337-estventascli/doc/ext0337-resultado-ventas-cliente.jpg)
-
 --
 * [ext0652-info_ventasmfam](./ext0652-info_ventasmfam) 
 
