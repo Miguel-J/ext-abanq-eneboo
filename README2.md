@@ -25,7 +25,7 @@
 * [ext0337-estventascli](./ext0337-estventascli) ![imagen resultado] (./ext0337-estventascli/doc/ext0337-resultado-ventas-cliente.jpg)
 
 --
-* [ext0652-info_ventasmfam](./ext0652-info_ventasmfam) ![imagen resultado] (./ext0652-info_ventasmfam/doc/ext0652-resultado-informe-ventas-mfam.jpg)
+* [ext0652-info_ventasmfam](./ext0652-info_ventasmfam) ![imagen resultado] (./ext0652-info_ventasmfam/doc/ext0652-resultado-informe-ventasmfam.jpg)
 
 [volver al índice](#indice)
 
