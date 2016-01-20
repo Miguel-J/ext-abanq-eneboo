@@ -23,13 +23,19 @@
 ![imagen resultado] (./ext0068-info_ventascli/doc/ext0068-resultado-ventas-cliente.jpg)
 
 --
-* [ext0075-info_ventasmcli](./ext0075-info_ventasmcli) ![imagen resultado] (./ext0075-info_ventasmcli/doc/ext0075-resultado-informe-ventasmcli.jpg)
+* [ext0075-info_ventasmcli](./ext0075-info_ventasmcli) 
+
+![imagen resultado] (./ext0075-info_ventasmcli/doc/ext0075-resultado-informe-ventasmcli.jpg)
 
 --
-* [ext0337-estventascli](./ext0337-estventascli) ![imagen resultado] (./ext0337-estventascli/doc/ext0337-resultado-ventas-cliente.jpg)
+* [ext0337-estventascli](./ext0337-estventascli) 
+
+![imagen resultado] (./ext0337-estventascli/doc/ext0337-resultado-ventas-cliente.jpg)
 
 --
-* [ext0652-info_ventasmfam](./ext0652-info_ventasmfam) ![imagen resultado] (./ext0652-info_ventasmfam/doc/ext0652-resultado-informe-ventasmfam.jpg)
+* [ext0652-info_ventasmfam](./ext0652-info_ventasmfam) 
+
+![imagen resultado] (./ext0652-info_ventasmfam/doc/ext0652-resultado-informe-ventasmfam.jpg)
 
 [volver al índice](#indice)
 
