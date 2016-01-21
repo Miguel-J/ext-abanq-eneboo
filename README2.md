@@ -27,7 +27,7 @@
 --
 * [ext0337-estventascli](./ext0337-estventascli) 
 
-![imagen resultado] (./ext0337-estventascli/doc/ext0337-resultado-ventas-cliente.jpg)
+![imagen resultado] (./ext0337-estventascli/doc/ext0337-edicion-criterios-estventascli.jpg)
 --
 * [ext0652-info_ventasmfam](./ext0652-info_ventasmfam) 
 
