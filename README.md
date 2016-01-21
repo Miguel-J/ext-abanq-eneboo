@@ -1,6 +1,8 @@
 # ext-abanq-eneboo
 Adaptación de las extensiones de AbanQ (liberadas por Federico Albujer) para ser usadas con Eneboo. Aparecen ordenadas POR NÚMERO DE EXTENSIÓN, no por nombre.
 
+Listado por campos: https://github.com/Miguel-J/ext-abanq-eneboo/blob/master/README2.md
+
 # ATENCIÓN: ESTAS EXTENSIONES NO SE HAN PROBADO EN ENEBOO....se trata sólo de ajustarlas a la estructura de las Eneboo-Tools. SIN MEJORARLAS. En el caso de que sean viables en Eneboo, serán trasladadas al repositorio de "eneboo-features".
 
 --
