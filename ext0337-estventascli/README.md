@@ -24,7 +24,7 @@ Extensiones que necesitan estar instaladas previamente
 Capturas de pantalla
 ---------------------
 
-![imagen resultado] (./ext0337-estventascli/doc/ext0337-edicion-criterios-estventascli.jpg)
+![imagen resultado] (./doc/ext0337-edicion-criterios-estventascli.jpg)
    
    Resultado-salida de la pestaña en el cliente.
    
