@@ -1,9 +1,9 @@
 ====================================================
-Pestaña de estadísticas de venta en el formulario de cliente
+Pestaña de listado de productos vendidos en el formulario de cliente
 ====================================================
 
 
-Pestaña de estadísticas de venta en el formulario de cliente
+Pestaña de estadísticas de venta (listado de productos vendidos) en el formulario de cliente
 
 
 ---------------------
