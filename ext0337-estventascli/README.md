@@ -24,23 +24,8 @@ Extensiones que necesitan estar instaladas previamente
 Capturas de pantalla
 ---------------------
 
-.. figure:: ./doc/ext0337-edicion-criterios-estventascli.jpg
-   :width: 500px
+![imagen resultado] (./ext0337-estventascli/doc/ext0337-edicion-criterios-estventascli.jpg)
    
-   Edición de criterios de selección.
-   
-------
-
-.. figure:: ./doc/ext0337-resultado-informe-estventascli.jpg
-   :width: 500px
-    
-   Resultado-salida de un ejemplo de informe.
-   
-------
-
-.. figure:: ./doc/ext0337-icono-menu-estventascli.jpg
-   :width: 500px
-    
-   Icono y titulo del menú en informes.
+   Resultado-salida de la pestaña en el cliente.
    
 ------
