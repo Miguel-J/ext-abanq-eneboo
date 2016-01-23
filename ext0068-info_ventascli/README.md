@@ -9,20 +9,15 @@ Informe de clientes con datos de ventas por cliente
 Módulos que necesitan estar instalados previamente
 ---------------------
 
-    * "facturacion/principal" name="flfactppal"
-    * "facturacion/almacen" name="flfactalma"
-    * "facturacion/facturacion" name="flfacturac"
+
     * "facturacion/informes" name="flfactinfo"
-    * "facturacion/tesoreria" name="flfactteso"
-    *   area="C" name="flcontppal"
-    *   area="C" name="flcontinfo"
 
 
 ---------------------
 Extensiones que necesitan estar instaladas previamente
 ---------------------
 
-   *    <extension version="" code="0224" name="pgc2008" pos="0" /> 
+    *  Ninguna.
 
 
 ---------------------
