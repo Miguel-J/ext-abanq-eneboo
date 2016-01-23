@@ -38,7 +38,7 @@
 
 --
 
-#### 1. de OTROS INFORMES:
+#### 2. de OTROS INFORMES:
 
 * [ext0005-info_vencimtos](./ext0005-info_vencimtos)
 * [ext0011-info_riesgocli](./ext0011-info_riesgocli)
@@ -53,7 +53,7 @@
 
 --
 
-#### 2. de CONTABILIDAD:
+#### 3. de CONTABILIDAD:
 
 * [ext0086-punteo_cont](./ext0086-punteo_cont)
 * [ext0020-ren_asientos](./ext0020-ren_asientos)
@@ -67,7 +67,7 @@
 
 --
 
-#### 3. de ALMACEN:
+#### 4. de ALMACEN:
 
 * [ext0338-art_obsoletos](./ext0338-art_obsoletos)
 * [ext0135-trazabilidad](./ext0135-trazabilidad)
@@ -76,7 +76,7 @@
 
 --
 
-#### 4. de TESORERIA:
+#### 5. de TESORERIA:
 
 * [ext0359-norma68](./ext0359-norma68)
 * [ext0361-pagos_remesa](./ext0361-pagos_remesa)
@@ -108,23 +108,23 @@
 * [ext0018-numeros_serie](./
 * [ext0019-calidad_prov](./
 
-* [ext0022-dias_pago_prov](./
-* [ext0023-asociar_presup](./
-* [ext0025-comp_recibos](./
-* [ext0028-remesas_auto](./
-* [ext0029-pagos_multiples](./ 
-* [ext0030-pedido_prov_cli](./
-* [ext0031-articulos_comp](./
-* [ext0032-liq_agentes](./
-* [ext0033-anticipos](./
-* [ext0034-tpv_allcol_bar 
-* [ext0042-mail_faturac 
-* [ext0043-act_precio](./ 
+* [ext0022-dias_pago_prov](./ext0022-dias_pago_prov)
+* [ext0023-asociar_presup](./ext0023-asociar_presup)
+* [ext0025-comp_recibos](./ext0025-comp_recibos)
+* [ext0028-remesas_auto](./ext0028-remesas_auto)
+* [ext0029-pagos_multiples](./ext0029-pagos_multiples)
+* [ext0030-pedido_prov_cli](./ext0030-pedido_prov_cli)
+* [ext0031-articulos_comp](./ext0031-articulos_comp)
+* [ext0032-liq_agentes](./ext0032-liq_agentes)
+* [ext0033-anticipos](./ext0033-anticipos)
+* [ext0034-tpv_allcol_bar](./ext0034-tpv_allcol_bar)
+* [ext0042-mail_faturac](./ext0042-mail_faturac)
+* [ext0043-act_precio](./ext0043-act_precio)
 
-* [ext0046-cli_potencial](./
+* [ext0046-cli_potencial](./ext0046-cli_potencial)
 
 
-* [ext0051-tpv_iva_incl](./
+* [ext0051-tpv_iva_incl](./ext0051-tpv_iva_incl)
 * [ext0052-tpv_envases](./
 * [ext0053-tallcol_barcode](./
 * [ext0054-pagos_multi_pro](./  
