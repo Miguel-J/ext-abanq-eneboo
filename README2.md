@@ -4,7 +4,7 @@
 #### Indice:
 
 1. [Extensiones para INFORMES de ESTADISTICAS de VENTAS:](#1-de-informes-de-estadisticas-de-ventas)
-2. [Extensiones para INFORMES-OTROS:](#2-informes-otros)
+2. [Extensiones para INFORMES-OTROS:](#2-de-informes-otros)
 3. [Extensiones para CONTABILIDAD:](#3-de-contabilidad)
 4. [Extensiones para ALMACÉN:](#4-de-almacen)
 5. [Extensiones para TESORERÍA:](#5-de-tesoreria)
