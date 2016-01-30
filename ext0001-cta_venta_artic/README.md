@@ -31,3 +31,6 @@ Capturas de pantalla
    Edición de criterios de selección.
    
 ------
+
+
+* [VOLVER AL MENU DE EXTENSIONES](../README.md) 
