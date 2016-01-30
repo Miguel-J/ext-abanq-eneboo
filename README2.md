@@ -111,10 +111,16 @@
 * [ext0760-stockAcumulado](./ext0760-stockAcumulado)
 * [ext0632-lineas_alma_kit](./ext0632-lineas_alma_kit)
 * [ext0043-act_precio](./ext0043-act_precio)
-* [ext0096-traza_envases](./* [ext0096-traza_envases](./
-* [ext0171-prod_barcode](./* [ext0171-prod_barcode](./
-* [ext0180-prod_sofa](./* [ext0180-prod_sofa](./
-* [ext0053-tallcol_barcode](./* [ext0053-tallcol_barcode](./
+* [ext0096-traza_envases](./ext0096-traza_envases)
+* [ext0171-prod_barcode](./ext0171-prod_barcode)
+* [ext0180-prod_sofa](./ext0180-prod_sofa)
+* [ext0053-tallcol_barcode](./ext0053-tallcol_barcode)
+* [ext0408-eti_articulo](./ext0408-eti_articulo)
+* [ext0409-eti_barcode](./ext0409-eti_barcode)
+* [ext0658-maquinas](./ext0658-maquinas)
+* [ext0734-alta_simple_art](./ext0734-alta_simple_art)
+* [ext0239-visorprecios](./ext0239-visorprecios)
+*  ext0576-camposarticulos*  ext0576-camposarticulos
 
 
 [volver al índice](#indice)
@@ -131,28 +137,32 @@
 * [ext0445-norma43](./ext0445-norma43)
 * [ext0028-remesas_auto](./ext0028-remesas_auto)
 * [ext0029-pagos_multiples](./ext0029-pagos_multiples)
-* [ext0014-recibos_prov](./* [ext0014-recibos_prov](./
+* [ext0014-recibos_prov](./ext0014-recibos_prov)
 * [ext0033-anticipos](./ext0033-anticipos)
-* [ext0099-remesas_prov](./* [ext0099-remesas_prov](./
-* [ext0100-caixaconfirming](./* [ext0100-caixaconfirming](./
-* [ext0103-vencim_personal](./* [ext0103-vencim_personal](./
-* [ext0108-pagares_prov](./* [ext0108-pagares_prov](./
-* [ext0118-num_serv](./* [ext0118-num_serv](./
-* [ext0122-num_acomp](./* [ext0122-num_acomp](./
-* [ext0123-vencim_perso_cp](./* [ext0123-vencim_perso_cp](./
-* [ext0124-num_serv_acomp](./* [ext0124-num_serv_acomp](./
-* [ext0054-pagos_multi_pro](./  * [ext0054-pagos_multi_pro](./  
-*  [ext0758-pagareMultipago*  [ext0758-pagareMultipago
-* [ext0132-bsconfirming](./* [ext0132-bsconfirming](./
-* [ext0133-comision_pagos](./* [ext0133-comision_pagos](./
-* [ext0134-pagos_multi_rec](./* [ext0134-pagos_multi_rec](./
-* [ext0136-pagos_prov](./* [ext0136-pagos_prov](./
-* [ext0137-cheques_cli](./* [ext0137-cheques_cli](./
+* [ext0099-remesas_prov](./ext0099-remesas_prov)
+* [ext0100-caixaconfirming](./ext0100-caixaconfirming)
+* [ext0103-vencim_personal](./ext0103-vencim_personal)
+* [ext0108-pagares_prov](./ext0108-pagares_prov)
+* [ext0118-num_serv](./ext0118-num_serv)
+* [ext0122-num_acomp](./ext0122-num_acomp)
+* [ext0123-vencim_perso_cp](./ext0123-vencim_perso_cp)
+* [ext0124-num_serv_acomp](./ext0124-num_serv_acomp)
+* [ext0054-pagos_multi_pro](./ext0054-pagos_multi_pro)
+* [ext0758-pagareMultipago](./ext0758-pagareMultipago)
+* [ext0132-bsconfirming](./ext0132-bsconfirming)
+* [ext0133-comision_pagos](./ext0133-comision_pagos)
+* [ext0134-pagos_multi_rec](./ext0134-pagos_multi_rec)
+* [ext0136-pagos_prov](./ext0136-pagos_prov)
+* [ext0137-cheques_cli](./ext0137-cheques_cli)
 * [ext0025-comp_recibos](./ext0025-comp_recibos)
-* [ext0157-traspaso_subcta](./* [ext0157-traspaso_subcta](./
-*  ext0346-pagares_prov2](./*  ext0346-pagares_prov2](./
-*  ext0365-servcli_rappel](./*  ext0365-servcli_rappel](./
-*  ext0366-prev_pagos](./*  ext0366-prev_pagos](./
+* [ext0157-traspaso_subcta](./ext0157-traspaso_subcta)
+* [ext0346-pagares_prov2](./ext0346-pagares_prov2)
+* [ext0365-servcli_rappel](./ext0365-servcli_rappel)
+* [ext0366-prev_pagos](./ext0366-prev_pagos)
+* [ext0493-banesconfirming](./ext0493-banesconfirming)
+* [ext0451-pagares_prov3](./ext0451-pagares_prov3)
+* [ext0725-anticipos_prov](./ext0725-anticipos_prov)
+*  ext0417-gasto_devol_cli](./*  ext0417-gasto_devol_cli](./
 
 
 [volver al índice](#indice)
@@ -180,7 +190,8 @@
 * [ext0735-base_tpv](./ext0735-base_tpv)
 * [ext0736-tpv_multi_tc](./ext0736-tpv_multi_tc)
 * [ext0731-puntos_tpv](./ext0731-puntos_tpv)
-*  ext0739-tpv_tarj_reg*  ext0739-tpv_tarj_reg
+*  ext0739-tpv_tarj_reg*  ext0739-tpv_tarj_reg)
+*  ext0738-tec_printer*  ext0738-tec_printer)
 
 
 [volver al índice](#indice)
@@ -195,6 +206,9 @@
 * [ext0416-rutas](./ext0416-rutas)
 * [ext0577-paqueteria](./ext0577-paqueteria)
 * [ext0527-consulta_envio](./ext0527-consulta_envio)
+*  ext0528-ag_trans_base*  ext0528-ag_trans_base)
+*  ext0701-incoterms*  ext0701-incoterms)
+*  ext0462-portes_dtoesp  *  ext0462-portes_dtoesp  
 
 
 [volver al índice](#indice)
@@ -226,6 +240,13 @@
 * [ext0304-servcli_envases* [ext0304-servcli_envases)
 *  ext0305-servcli_dtoesp*  ext0305-servcli_dtoesp)
 *  ext0308-lineas_largas](./*  ext0308-lineas_largas)
+* [ext0207-pedidos_auto](./* [ext0207-pedidos_auto)
+*  ext0384-numeros_linea](./*  ext0384-numeros_linea](./
+*  ext0385-ofertas_prov](./*  ext0385-ofertas_prov](./
+* [ext0229-gene_albaranesp](./  * [ext0229-gene_albaranesp) 
+*  ext0407-dtos_completosc](./*  ext0407-dtos_completosc](./
+*  ext0421-dtos_completosp](./*  ext0421-dtos_completosp](./
+*  ext0639-dto_total*  ext0639-dto_total
 
 
 [volver al índice](#indice)
@@ -234,11 +255,22 @@
 
 #### 9. de FACTURACION-PRINCIPAL:
 
-* [ext0018-numeros_serie](./* [ext0018-numeros_serie](./
-* [ext0152-produccion](./* [ext0152-produccion](./
-*  ext0349-tarifas_fact](./*  ext0349-tarifas_fact](./
-*  ext0351-tarifas_tc_bar](./*  ext0351-tarifas_tc_bar](./
-*  ext0354-mas_formaspago](./*  ext0354-mas_formaspago](./
+* [ext0018-numeros_serie](./ext0018-numeros_serie)
+* [ext0152-produccion](./ext0152-produccion)
+* [ext0349-tarifas_fact](./ext0349-tarifas_fact)
+* [ext0351-tarifas_tc_bar](./ext0351-tarifas_tc_bar)
+* [ext0354-mas_formaspago](./ext0354-mas_formaspago)
+* [ext0401-poblaciones](./ext0401-poblaciones)
+* [ext0532-marca_impresion](./ext0532-marca_impresion)
+* [ext0536-persona_fisica](./ext0536-persona_fisica)
+* [ext0539-wg_agenda](./ext0539-wg_agenda)
+* [ext0599-cambio_iva](./ext0599-cambio_iva)
+*  ext0413-vacaciones_cli](./*  ext0413-vacaciones_cli](./
+*  ext0742-email_facturas*  ext0742-email_facturas
+* [ext0200-etiquetascli](./* [ext0200-etiquetascli](./
+*  ext0374-calendario_lab](./*  ext0374-calendario_lab](./
+*  ext0420-intrastat](./*  ext0420-intrastat](./
+
 
 [volver al índice](#indice)
 
@@ -249,13 +281,24 @@
 * [ext0219-export_bds](./ext0219-export_bds)
 * [ext0559-exportar_csv](./ext0559-exportar_csv)  
 * [ext0661-sincro_catalogo](./ext0661-sincro_catalogo)
-* [ext0059-canarias](./* [ext0059-canarias](./
-* [ext0074-backups](./* [ext0074-backups](./
-* [ext0087-fun_chile](./* [ext0087-fun_chile](./
-* [ext0125-cambio_empresas](./* [ext0125-cambio_empresas](./
-* [ext0009-batch_docs](./* [ext0009-batch_docs](./
-* [ext0187-tcbarco_estoreq](./* [ext0187-tcbarco_estoreq](./
-* [ext0194-import_bds](./* [ext0194-import_bds](./
+* [ext0059-canarias](./ext0059-canarias)
+* [ext0074-backups](./ext0074-backups)
+* [ext0087-fun_chile](./ext0087-fun_chile)
+* [ext0125-cambio_empresas](./ext0125-cambio_empresas)
+* [ext0009-batch_docs](./ext0009-batch_docs)
+* [ext0187-tcbarco_estoreq](./ext0187-tcbarco_estoreq)
+* [ext0194-import_bds](./ext0194-import_bds)
+* [ext0154-batch_servired](./ext0154-batch_servired)
+* [ext0411-traducciones](./ext0411-traducciones)
+* [ext0412-inf_multiidioma](./ext0412-inf_multiidioma)
+* [ext0450-envio_mail](./ext0450-envio_mail)
+* [ext0521-config_ooffice](./ext0521-config_ooffice)
+* [ext0526-conf_navegador](./ext0526-conf_navegador)
+* [ext0496-ar2kut](./ext0496-ar2kut)
+* [ext0514-multiempresa](./ext0514-multiempresa)
+* [ext0756-magento](./ext0756-magento)
+* [ext0757-magento_tc](./ext0757-magento_tc)
+*  ext0729-exportar_edi*  ext0729-exportar_edi
 
 
 
@@ -274,6 +317,8 @@
 * [ext0023-asociar_presup](./ext0023-asociar_presup)
 * [ext0030-pedido_prov_cli](./ext0030-pedido_prov_cli)
 * [ext0158-presup_oferta](./* [ext0158-presup_oferta](./
+*  ext0722-pedidos_marco*  ext0722-pedidos_marco
+*  ext0656-presup_anuales*  ext0656-presup_anuales
 
 
 [volver al índice](#indice)
@@ -283,20 +328,7 @@
 
 
 
-
-* [ext0154-batch_servired](./* [ext0154-batch_servired](./
-
-
-* [ext0200-etiquetascli](./* [ext0200-etiquetascli](./
-
-* [ext0207-pedidos_auto](./* [ext0207-pedidos_auto)
-
-
-
-
-* [ext0229-gene_albaranesp](./  * [ext0229-gene_albaranesp) 
 * [ext0234-alb_multi_ped](./* [ext0234-alb_multi_ped)
-* [ext0239-visorprecios  * [ext0239-visorprecios)
 
 * [ext0251-listados_tabla  * [ext0251-listados_tabla)
 * [ext0260-control_horas  * [ext0260-control_horas)
@@ -311,103 +343,51 @@
 *  ext0344-proyectos_cc](./*  ext0344-proyectos_cc](./
 *  ext0367-sga_barcode](./*  ext0367-sga_barcode](./
 *  ext0369-versiones_pres](./*  ext0369-versiones_pres](./
-*  ext0374-calendario_lab](./*  ext0374-calendario_lab](./
-*  ext0384-numeros_linea](./*  ext0384-numeros_linea](./
-*  ext0385-ofertas_prov](./*  ext0385-ofertas_prov](./
-
-
-*  ext0401-poblaciones](./*  ext0401-poblaciones](./
-*  ext0407-dtos_completosc](./*  ext0407-dtos_completosc](./
-*  ext0408-eti_articulo](./*  ext0408-eti_articulo](./
-*  ext0409-eti_barcode](./*  ext0409-eti_barcode](./
-*  ext0411-traducciones](./*  ext0411-traducciones](./
-*  ext0412-inf_multiidioma](./*  ext0412-inf_multiidioma](./
-*  ext0413-vacaciones_cli](./*  ext0413-vacaciones_cli](./
-
-*  ext0417-gasto_devol_cli](./*  ext0417-gasto_devol_cli](./
-*  ext0420-intrastat](./*  ext0420-intrastat](./
-*  ext0421-dtos_completosp](./*  ext0421-dtos_completosp](./
-
-
-
-
-
-
 
 *  ext0448-partidas_fact  *  ext0448-partidas_fact  
-*  ext0450-envio_mail  *  ext0450-envio_mail  
-*  ext0451-pagares_prov3  *  ext0451-pagares_prov3  
 *  ext0456-cambio_ejer_alb    *  ext0456-cambio_ejer_alb    
-*  ext0462-portes_dtoesp  *  ext0462-portes_dtoesp  
-
-
-
-
-*  ext0493-banesconfirming*  ext0493-banesconfirming
-
-*  ext0496-ar2kut*  ext0496-ar2kut
 
 *  ext0512-edit_fact_bloq*  ext0512-edit_fact_bloq
-*  ext0514-multiempresa*  ext0514-multiempresa
 
 *  ext0519-envio_fax*  ext0519-envio_fax
 
-*  ext0521-config_ooffice*  ext0521-config_ooffice
-*  ext0526-conf_navegador*  ext0526-conf_navegador
 
-*  ext0528-ag_trans_base*  ext0528-ag_trans_base
-*  ext0532-marca_impresion*  ext0532-marca_impresion
-*  ext0536-persona_fisica*  ext0536-persona_fisica
-*  ext0539-wg_agenda*  ext0539-wg_agenda
 
 *  ext0562-ped_auto_dto*  ext0562-ped_auto_dto
 
-*  ext0576-camposarticulos*  ext0576-camposarticulos
 
 *  ext0588-fact_per_dto*  ext0588-fact_per_dto
 *  ext0589-wg_mensajes*  ext0589-wg_mensajes
-*  ext0599-cambio_iva
-*  ext0602-fras_import
-*  ext0610-tabla_to_csv
-*  ext0625-traza_ns
 
-*  ext0639-dto_total
-
-*  ext0641-saas
-
-*  ext0650-punto_entrada
-
-*  ext0656-presup_anuales
-*  ext0658-maquinas  
+*  ext0602-fras_import*  ext0602-fras_import
+*  ext0610-tabla_to_csv*  ext0610-tabla_to_csv
+*  ext0625-traza_ns*  ext0625-traza_ns
 
 
-*  ext0663-servicioscli_nl
+*  ext0641-saas*  ext0641-saas
+
+*  ext0650-punto_entrada*  ext0650-punto_entrada
+
+
+
+*  ext0663-servicioscli_nl*  ext0663-servicioscli_nl
 
 
 *  ext0691-pedidos_auto_tc*  ext0691-pedidos_auto_tc
 *  ext0692-contratos_memp*  ext0692-contratos_memp
 *  ext0693-multiempresa_cc*  ext0693-multiempresa_cc
 *  ext0694-contratos_cc*  ext0694-contratos_cc
-*  ext0701-incoterms*  ext0701-incoterms
 
 
 *  ext0721-distri_alb_ejer*  ext0721-distri_alb_ejer
-*  ext0722-pedidos_marco*  ext0722-pedidos_marco
-*  ext0725-anticipos_prov*  ext0725-anticipos_prov
-*  ext0729-exportar_edi*  ext0729-exportar_edi
 
 *  ext0732-iva_nav  *  ext0732-iva_nav  
 
-*  ext0734-alta_simple_art*  ext0734-alta_simple_art
 
 
 *  ext0737-tabla_editable*  ext0737-tabla_editable
-*  ext0738-tec_printer*  ext0738-tec_printer
-*  ext0742-email_facturas*  ext0742-email_facturas
 *  ext0748-rx_pedidosprov*  ext0748-rx_pedidosprov
 
-*  [ext0756-magento*  [ext0756-magento
-*  [ext0757-magento_tc*  [ext0757-magento_tc
 
 *  [sga_  *  [sga_  
 
