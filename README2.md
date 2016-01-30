@@ -87,8 +87,8 @@
 * [ext0495-digit_contable](./ext0495-digit_contable)  
 * [ext0709-inf_diariomes](./ext0709-inf_diariomes)
 * [ext0272-cambio_ejerc](./ext0272-cambio_ejerc)
-* [ext0128-irpf_parcial](./* [ext0128-irpf_parcial](./
-* [ext0291-subcuenta_irpf  * [ext0291-subcuenta_irpf)
+* [ext0128-irpf_parcial](./ext0128-irpf_parcial)
+* [ext0291-subcuenta_irpf](./ext0291-subcuenta_irpf)
 
 
 [volver al índice](#indice)
@@ -120,7 +120,7 @@
 * [ext0658-maquinas](./ext0658-maquinas)
 * [ext0734-alta_simple_art](./ext0734-alta_simple_art)
 * [ext0239-visorprecios](./ext0239-visorprecios)
-*  ext0576-camposarticulos*  ext0576-camposarticulos
+* [ext0576-camposarticulos](./ext0576-camposarticulos)
 
 
 [volver al índice](#indice)
@@ -162,7 +162,7 @@
 * [ext0493-banesconfirming](./ext0493-banesconfirming)
 * [ext0451-pagares_prov3](./ext0451-pagares_prov3)
 * [ext0725-anticipos_prov](./ext0725-anticipos_prov)
-*  ext0417-gasto_devol_cli](./*  ext0417-gasto_devol_cli](./
+* [ext0417-gasto_devol_cli](./ext0417-gasto_devol_cli)
 
 
 [volver al índice](#indice)
@@ -190,8 +190,8 @@
 * [ext0735-base_tpv](./ext0735-base_tpv)
 * [ext0736-tpv_multi_tc](./ext0736-tpv_multi_tc)
 * [ext0731-puntos_tpv](./ext0731-puntos_tpv)
-*  ext0739-tpv_tarj_reg*  ext0739-tpv_tarj_reg)
-*  ext0738-tec_printer*  ext0738-tec_printer)
+* [ext0739-tpv_tarj_reg](./ext0739-tpv_tarj_reg)
+* [ext0738-tec_printer](./ext0738-tec_printer)
 
 
 [volver al índice](#indice)
@@ -206,9 +206,9 @@
 * [ext0416-rutas](./ext0416-rutas)
 * [ext0577-paqueteria](./ext0577-paqueteria)
 * [ext0527-consulta_envio](./ext0527-consulta_envio)
-*  ext0528-ag_trans_base*  ext0528-ag_trans_base)
-*  ext0701-incoterms*  ext0701-incoterms)
-*  ext0462-portes_dtoesp  *  ext0462-portes_dtoesp  
+* [ext0528-ag_trans_base](./ext0528-ag_trans_base)
+* [ext0701-incoterms](./ext0701-incoterms)
+* [ext0462-portes_dtoesp](./ext0462-portes_dtoesp) 
 
 
 [volver al índice](#indice)
@@ -231,22 +231,23 @@
 * [ext0520-gimnasios](./ext0520-gimnasios)
 * [ext0679-extraescolar](./ext0679-extraescolar)
 * [ext0715-alquileres](./ext0715-alquileres)
-* [ext0010-dto_especial](./* [ext0010-dto_especial](./
-* [ext0016-servicios_cli](./* [ext0016-servicios_cli](./
-* [ext0019-calidad_prov](./* [ext0019-calidad_prov](./
-* [ext0292-tallcol_acomp* [ext0292-tallcol_acomp)
-* [ext0297-albparcial_traz  * [ext0297-albparcial_traz)  
-* [ext0303-servcli_ivainc* [ext0303-servcli_ivainc)
-* [ext0304-servcli_envases* [ext0304-servcli_envases)
-*  ext0305-servcli_dtoesp*  ext0305-servcli_dtoesp)
-*  ext0308-lineas_largas](./*  ext0308-lineas_largas)
-* [ext0207-pedidos_auto](./* [ext0207-pedidos_auto)
-*  ext0384-numeros_linea](./*  ext0384-numeros_linea](./
-*  ext0385-ofertas_prov](./*  ext0385-ofertas_prov](./
-* [ext0229-gene_albaranesp](./  * [ext0229-gene_albaranesp) 
-*  ext0407-dtos_completosc](./*  ext0407-dtos_completosc](./
-*  ext0421-dtos_completosp](./*  ext0421-dtos_completosp](./
-*  ext0639-dto_total*  ext0639-dto_total
+* [ext0010-dto_especial](./ext0010-dto_especial)
+* [ext0016-servicios_cli](./ext0016-servicios_cli)
+* [ext0019-calidad_prov](./ext0019-calidad_prov)
+* [ext0292-tallcol_acomp](./ext0292-tallcol_acomp)
+* [ext0297-albparcial_traz](./ext0297-albparcial_traz)  
+* [ext0303-servcli_ivainc](./ext0303-servcli_ivainc)
+* [ext0304-servcli_envases](./ext0304-servcli_envases)
+* [ext0305-servcli_dtoesp](./ext0305-servcli_dtoesp)
+* [ext0308-lineas_largas](./ext0308-lineas_largas)
+* [ext0207-pedidos_auto](./ext0207-pedidos_auto)
+* [ext0384-numeros_linea](./ext0384-numeros_linea)
+* [ext0385-ofertas_prov](./ext0385-ofertas_prov)
+* [ext0229-gene_albaranesp](./ext0229-gene_albaranesp) 
+* [ext0407-dtos_completosc](./ext0407-dtos_completosc)
+* [ext0421-dtos_completosp](./ext0421-dtos_completosp)
+* [ext0639-dto_total](./ext0639-dto_total)
+* [ext0319-dtoesp_subctav](./ext0319-dtoesp_subctav)
 
 
 [volver al índice](#indice)
@@ -265,11 +266,11 @@
 * [ext0536-persona_fisica](./ext0536-persona_fisica)
 * [ext0539-wg_agenda](./ext0539-wg_agenda)
 * [ext0599-cambio_iva](./ext0599-cambio_iva)
-*  ext0413-vacaciones_cli](./*  ext0413-vacaciones_cli](./
-*  ext0742-email_facturas*  ext0742-email_facturas
-* [ext0200-etiquetascli](./* [ext0200-etiquetascli](./
-*  ext0374-calendario_lab](./*  ext0374-calendario_lab](./
-*  ext0420-intrastat](./*  ext0420-intrastat](./
+* [ext0413-vacaciones_cli](./ext0413-vacaciones_cli)
+* [ext0742-email_facturas](./ext0742-email_facturas)
+* [ext0200-etiquetascli](./ext0200-etiquetascli)
+* [ext0374-calendario_lab](./ext0374-calendario_lab)
+* [ext0420-intrastat](./ext0420-intrastat)
 
 
 [volver al índice](#indice)
@@ -298,7 +299,7 @@
 * [ext0514-multiempresa](./ext0514-multiempresa)
 * [ext0756-magento](./ext0756-magento)
 * [ext0757-magento_tc](./ext0757-magento_tc)
-*  ext0729-exportar_edi*  ext0729-exportar_edi
+* [ext0729-exportar_edi](./ext0729-exportar_edi)
 
 
 
@@ -316,9 +317,9 @@
 * [ext0585-envio_mail_crm](./ext0585-envio_mail_crm)
 * [ext0023-asociar_presup](./ext0023-asociar_presup)
 * [ext0030-pedido_prov_cli](./ext0030-pedido_prov_cli)
-* [ext0158-presup_oferta](./* [ext0158-presup_oferta](./
-*  ext0722-pedidos_marco*  ext0722-pedidos_marco
-*  ext0656-presup_anuales*  ext0656-presup_anuales
+* [ext0158-presup_oferta](./ext0158-presup_oferta)
+* [ext0722-pedidos_marco](./ext0722-pedidos_marco)
+* [ext0656-presup_anuales](./ext0656-presup_anuales)
 
 
 [volver al índice](#indice)
@@ -328,66 +329,34 @@
 
 
 
-* [ext0234-alb_multi_ped](./* [ext0234-alb_multi_ped)
-
-* [ext0251-listados_tabla  * [ext0251-listados_tabla)
-* [ext0260-control_horas  * [ext0260-control_horas)
-* [ext0265-publicaciones  * [ext0265-publicaciones) 
-
-* [ext0281-gene_albaranesc * [ext0281-gene_albaranesc) 
-
-
-*  ext0319-dtoesp_subctav](./*  ext0319-dtoesp_subctav](./
-
-
-*  ext0344-proyectos_cc](./*  ext0344-proyectos_cc](./
-*  ext0367-sga_barcode](./*  ext0367-sga_barcode](./
-*  ext0369-versiones_pres](./*  ext0369-versiones_pres](./
-
-*  ext0448-partidas_fact  *  ext0448-partidas_fact  
-*  ext0456-cambio_ejer_alb    *  ext0456-cambio_ejer_alb    
-
-*  ext0512-edit_fact_bloq*  ext0512-edit_fact_bloq
-
-*  ext0519-envio_fax*  ext0519-envio_fax
-
-
-
-*  ext0562-ped_auto_dto*  ext0562-ped_auto_dto
-
-
-*  ext0588-fact_per_dto*  ext0588-fact_per_dto
-*  ext0589-wg_mensajes*  ext0589-wg_mensajes
-
-*  ext0602-fras_import*  ext0602-fras_import
-*  ext0610-tabla_to_csv*  ext0610-tabla_to_csv
-*  ext0625-traza_ns*  ext0625-traza_ns
-
-
-*  ext0641-saas*  ext0641-saas
-
-*  ext0650-punto_entrada*  ext0650-punto_entrada
-
-
-
-*  ext0663-servicioscli_nl*  ext0663-servicioscli_nl
-
-
-*  ext0691-pedidos_auto_tc*  ext0691-pedidos_auto_tc
-*  ext0692-contratos_memp*  ext0692-contratos_memp
-*  ext0693-multiempresa_cc*  ext0693-multiempresa_cc
-*  ext0694-contratos_cc*  ext0694-contratos_cc
-
-
-*  ext0721-distri_alb_ejer*  ext0721-distri_alb_ejer
-
-*  ext0732-iva_nav  *  ext0732-iva_nav  
-
-
-
-*  ext0737-tabla_editable*  ext0737-tabla_editable
-*  ext0748-rx_pedidosprov*  ext0748-rx_pedidosprov
-
-
-*  [sga_  *  [sga_  
+* [ext0234-alb_multi_ped](./ext0234-alb_multi_ped)
+* [ext0251-listados_tabla](./ext0251-listados_tabla)
+* [ext0260-control_horas](./ext0260-control_horas)
+* [ext0265-publicaciones](./ext0265-publicaciones) 
+* [ext0281-gene_albaranesc](./ext0281-gene_albaranesc) 
+*  [ext0344-proyectos_cc](./ext0344-proyectos_cc)
+*  [ext0367-sga_barcode](./ext0367-sga_barcode)
+*  [ext0369-versiones_pres](./ext0369-versiones_pres)
+*  [ext0448-partidas_fact](./ext0448-partidas_fact)
+*  [ext0456-cambio_ejer_alb](./ext0456-cambio_ejer_alb)  
+*  [ext0512-edit_fact_bloq](./ext0512-edit_fact_bloq)
+*  [ext0519-envio_fax](./ext0519-envio_fax)
+*  [ext0562-ped_auto_dto](./ext0562-ped_auto_dto)
+*  [ext0588-fact_per_dto](./ext0588-fact_per_dto)
+*  [ext0589-wg_mensajes](./ext0589-wg_mensajes)
+*  [ext0602-fras_import](./ext0602-fras_import)
+*  [ext0610-tabla_to_csv](./ext0610-tabla_to_csv)
+*  [ext0625-traza_ns](./ext0625-traza_ns)
+*  [ext0641-saas](./ext0641-saas)
+*  [ext0650-punto_entrada](./ext0650-punto_entrada)
+*  [ext0663-servicioscli_nl](./ext0663-servicioscli_nl)
+*  [ext0691-pedidos_auto_tc](./ext0691-pedidos_auto_tc)
+*  [ext0692-contratos_memp](./ext0692-contratos_memp)
+*  [ext0693-multiempresa_cc](./ext0693-multiempresa_cc)
+*  [ext0694-contratos_cc](./ext0694-contratos_cc)
+*  [ext0721-distri_alb_ejer](./ext0721-distri_alb_ejer)
+*  [ext0732-iva_nav](./ext0732-iva_nav)
+* [ ext0737-tabla_editable](./ext0737-tabla_editable)
+* [ ext0748-rx_pedidosprov](./ext0748-rx_pedidosprov)
+*  [sga_](./  *  [sga_  
 
