@@ -3,7 +3,7 @@
 
 #### Indice:
 
-1. [Extensiones para INFORMES de ESTADISTICAS de VENTAS:](#1-de-informes-de-estadisticas-de-ventas)
+1. [Extensiones para INFORMES de ESTADISTICAS de VENTAS:](#1-de-informes-de-estadísticas-de-ventas)
 2. [Extensiones para INFORMES-OTROS:](#2-de-otros-informes)
 3. [Extensiones para CONTABILIDAD:](#3-de-contabilidad)
 4. [Extensiones para ALMACÉN:](#4-de-almacen)
@@ -17,7 +17,7 @@
  
 --
 
-#### 1. de INFORMES de ESTADISTICAS de VENTAS:
+#### 1. de INFORMES de ESTADÍSTICAS de VENTAS:
 
  
 * [ext0039-info_ventasmes](./ext0039-info_ventasmes) 
