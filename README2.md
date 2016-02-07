@@ -31,7 +31,9 @@
 
 --
 
-####1. ext0039 info ventasmes. [ext0039-info_ventasmes](./ext0039-info_ventasmes) 
+####1. ext0039 info ventasmes. 
+
+[ext0039-info_ventasmes](./ext0039-info_ventasmes) 
 
 ![imagen resultado] (./ext0039-info_ventasmes/doc/ext0039-resultado-informe-ventas-mes.jpg)
 --
