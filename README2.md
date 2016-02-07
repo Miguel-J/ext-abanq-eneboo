@@ -22,10 +22,10 @@
 #### Subindice:
 
 1. [ext0039-info_ventasmes](#1-ext0039-info_ventasmes) 
-2. [ext0068-info_ventascli](./ext0068-info_ventascli) 
-3. [ext0075-info_ventasmcli](./ext0075-info_ventasmcli) 
-4. [ext0337-estventascli](./ext0337-estventascli) 
-5. [ext0652-info_ventasmfam](./ext0652-info_ventasmfam) 
+2. [ext0068-info_ventascli](#2-ext0068-info_ventascli) 
+3. [ext0075-info_ventasmcli](#3-ext0075-info_ventasmcli) 
+4. [ext0337-estventascli](#4-ext0337-estventascli) 
+5. [ext0652-info_ventasmfam](#5-ext0652-info_ventasmfam) 
 
 [volver al índice](#indice)
 
@@ -36,20 +36,40 @@
 [ext0039-info_ventasmes](./ext0039-info_ventasmes) 
 
 ![imagen resultado] (./ext0039-info_ventasmes/doc/ext0039-resultado-informe-ventas-mes.jpg)
+
+[volver al sub-índice](#subindice)
+
 --
-* [ext0068-info_ventascli](./ext0068-info_ventascli) 
+####2. ext0068-info_ventascli
+
+[ext0068-info_ventascli](./ext0068-info_ventascli) 
 
 ![imagen resultado] (./ext0068-info_ventascli/doc/ext0068-resultado-ventas-cliente.jpg)
+
+[volver al sub-índice](#subindice)
+
 --
-* [ext0075-info_ventasmcli](./ext0075-info_ventasmcli) 
+####3. ext0075-info_ventasmcli
+
+[ext0075-info_ventasmcli](./ext0075-info_ventasmcli) 
 
 ![imagen resultado] (./ext0075-info_ventasmcli/doc/ext0075-resultado-informe-ventasmcli.jpg)
+
+[volver al sub-índice](#subindice)
+
 --
-* [ext0337-estventascli](./ext0337-estventascli) 
+####4. ext0337-estventascli
+
+[ext0337-estventascli](./ext0337-estventascli) 
 
 ![imagen resultado] (./ext0337-estventascli/doc/ext0337-edicion-criterios-estventascli.jpg)
+
+[volver al sub-índice](#subindice)
+
 --
-* [ext0652-info_ventasmfam](./ext0652-info_ventasmfam) 
+####5. ext0652-info_ventasmfam
+
+[ext0652-info_ventasmfam](./ext0652-info_ventasmfam) 
 
 ![imagen resultado] (./ext0652-info_ventasmfam/doc/ext0652-resultado-informe-ventasmfam.jpg)
 
