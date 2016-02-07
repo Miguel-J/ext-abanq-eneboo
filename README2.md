@@ -19,8 +19,19 @@
 
 #### 1. de INFORMES de ESTADISTICAS de VENTAS:
 
- 
-* [ext0039-info_ventasmes](./ext0039-info_ventasmes) 
+#### Subindice:
+
+1. [ext0039-info_ventasmes](1-ext0039-info_ventasmes) 
+2. [ext0068-info_ventascli](./ext0068-info_ventascli) 
+3. [ext0075-info_ventasmcli](./ext0075-info_ventasmcli) 
+4. [ext0337-estventascli](./ext0337-estventascli) 
+5. [ext0652-info_ventasmfam](./ext0652-info_ventasmfam) 
+
+[volver al índice](#indice)
+
+--
+
+1. [ext0039-info_ventasmes](./ext0039-info_ventasmes) 
 
 ![imagen resultado] (./ext0039-info_ventasmes/doc/ext0039-resultado-informe-ventas-mes.jpg)
 --
@@ -39,6 +50,8 @@
 * [ext0652-info_ventasmfam](./ext0652-info_ventasmfam) 
 
 ![imagen resultado] (./ext0652-info_ventasmfam/doc/ext0652-resultado-informe-ventasmfam.jpg)
+
+[volver al sub-índice](#subindice)
 
 [volver al índice](#indice)
 
