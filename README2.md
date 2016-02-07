@@ -21,7 +21,7 @@
 
 #### Subindice:
 
-1. [ext0039-info_ventasmes](#1-ext0039-info-ventasmes) 
+1. [ext0039-info_ventasmes](#1-ext0039-info_ventasmes) 
 2. [ext0068-info_ventascli](./ext0068-info_ventascli) 
 3. [ext0075-info_ventasmcli](./ext0075-info_ventasmcli) 
 4. [ext0337-estventascli](./ext0337-estventascli) 
@@ -31,7 +31,7 @@
 
 --
 
-####1. ext0039 info ventasmes. 
+####1. ext0039 info_ventasmes. 
 
 [ext0039-info_ventasmes](./ext0039-info_ventasmes) 
 
