@@ -21,11 +21,11 @@
 
 #### Subindice:
 
-1. [ext0039-info_ventasmes](#1-ext0039-info_ventasmes) 
-2. [ext0068-info_ventascli](#2-ext0068-info_ventascli) 
-3. [ext0075-info_ventasmcli](#3-ext0075-info_ventasmcli) 
-4. [ext0337-estventascli](#4-ext0337-estventascli) 
-5. [ext0652-info_ventasmfam](#5-ext0652-info_ventasmfam) 
+1. [ext0039-info_ventasmes](#1-ext0039-info_ventasmes) Informe de unidades vendidas de cada artículo de una familia en cada mes o intervalo
+2. [ext0068-info_ventascli](#2-ext0068-info_ventascli) Informe de clientes con datos de ventas por cliente
+3. [ext0075-info_ventasmcli](#3-ext0075-info_ventasmcli) Informe de ventas mensuales por clientes
+4. [ext0337-estventascli](#4-ext0337-estventascli) Pestaña de listado de productos vendidos en el formulario de cliente
+5. [ext0652-info_ventasmfam](#5-ext0652-info_ventasmfam) Informe de ventas mensuales por familias
 
 [volver al índice](#indice)
 
@@ -81,16 +81,20 @@
 
 #### 2. de OTROS INFORMES:
 
-* [ext0005-info_vencimtos](./ext0005-info_vencimtos)
-* [ext0011-info_riesgocli](./ext0011-info_riesgocli)
-* [ext0012-info_tarifas](./ext0012-info_tarifas)
-* [ext0045-info_trazab](./ext0045-info_trazab)
-* [ext0048-info_clipro](./ext0048-info_clipro)
-* [ext0050-info_cta_explot](./ext0050-info_cta_explot)
-* [ext0240-info_facturatot](./ext0240-info_facturatot)    
-* [ext0063-info_pagocobro](./ext0063-info_pagocobro)
-* [ext0167-informes_odt](./ext0167-informes_odt)
-* [ext0032-liq_agentes](./ext0032-liq_agentes)
+#### Subindice:
+
+* [ext0005-info_vencimtos](./ext0005-info_vencimtos) Informe de vencimientos de recibos de clientes y proveedores
+* [ext0011-info_riesgocli](./ext0011-info_riesgocli) Informe de riesgo acumulado de clientes.
+* [ext0012-info_tarifas](./ext0012-info_tarifas) Listado de precios de los artículos asociados a cada tarifa
+* [ext0032-liq_agentes](./ext0032-liq_agentes) Liquidaciones a agentes comerciales
+* [ext0045-info_trazab](./ext0045-info_trazab) Informe de seguimiento de productos: ventas, compras, cambios de stocks
+* [ext0048-info_clipro](./ext0048-info_cliprov) Listados de clientes y proveedores
+* [ext0050-info_cta_explot](./ext0050-info_cta_explot) Informe financiero de cuenta de explotación y otros
+* [ext0063-info_pagocobro](./ext0063-info_pagocobro) Informe de previsión de pagos y cobros
+* [ext0167-informes_odt](./ext0167-informes_odt) Informes con formato OpenOffice
+* [ext0240-info_facturatot](./ext0240-info_facturatot) Informes totalizados de facturación por día, mes y trimestre
+
+[volver al sub-índice](#subindice)
 
 [volver al índice](#indice)
 
@@ -98,39 +102,44 @@
 
 #### 3. de CONTABILIDAD:
 
-* [ext0020-ren_asientos](./ext0020-ren_asientos)
-* [ext0086-punteo_cont](./ext0086-punteo_cont)
-* [ext0088-balan_multiem](./ext0088-balan_multiem)
-* [ext0457-modelo300](./ext0457-modelo300)
+#### Subindice:
+
+* [ext0020-ren_asientos](./ext0020-ren_asientos) Renumeración automática de asientos
+* [ext0086-punteo_cont](./ext0086-punteo_cont) Punteo y casación de partidas en contabilidad
+* [ext0088-balan_multiem](./ext0088-balan_multiem) Balances contables multiempresa
+* [ext0128-irpf_parcial](./ext0128-irpf_parcial) Redondea los asientos de la contabilidad
+* [ext0153-redon_asientos](./ext0153-redon_asientos)
+* [ext0223-centroscoste](./ext0223-centroscoste) Contabilidad por centros de coste
+* [ext0224-pgc2008](./ext0224-pgc2008) Adaptaciones al nuevo plan general contable 2008
+* [ext0272-cambio_ejerc](./ext0272-cambio_ejerc)
+* [ext0291-subcuenta_irpf](./ext0291-subcuenta_irpf)
+* [ext0314-ccoste_pgc2008](./ext0314-ccoste_pgc2008) Informes contables 2008 por centros de coste
+* [ext0320-modelo201](./ext0320-modelo201) Modelo fiscal 201 (Impuesto de Sociedades)
+* [ext0430-modelo303](./ext0430-modelo303)
+* [ext0437-base_modelos](./ext0437-base_modelos)
+* [ext0443-modelo340](./ext0443-modelo340)
+* [ext0457-modelo300](./ext0457-modelo300) Modelo fiscal 300
 * [ext0458-modelo320](./ext0458-modelo320)
 * [ext0459-modelo347](./ext0459-modelo347)
 * [ext0460-modelo390](./ext0460-modelo390)
 * [ext0461-modelo349](./ext0461-modelo349)
-* [ext0320-modelo201](./ext0320-modelo201)
-* [ext0153-redon_asientos](./ext0153-redon_asientos)
-* [ext0223-centroscoste](./ext0223-centroscoste)
-* [ext0224-pgc2008](./ext0224-pgc2008)
-* [ext0443-modelo340](./ext0443-modelo340)
-* [ext0430-modelo303](./ext0430-modelo303)
-* [ext0437-base_modelos](./ext0437-base_modelos)
-* [ext0314-ccoste_pgc2008](./ext0314-ccoste_pgc2008)
 * [ext0467-modelo115](./ext0467-modelo115)
 * [ext0471-modelo180](./ext0471-modelo180)
 * [ext0472-modelo392](./ext0472-modelo392)
 * [ext0489-libros_conta](./ext0489-libros_conta)
-* [ext0517-balan_mul_08](./ext0517-balan_mul_08)
 * [ext0495-digit_contable](./ext0495-digit_contable)  
+* [ext0517-balan_mul_08](./ext0517-balan_mul_08)
 * [ext0709-inf_diariomes](./ext0709-inf_diariomes)
-* [ext0272-cambio_ejerc](./ext0272-cambio_ejerc)
-* [ext0128-irpf_parcial](./ext0128-irpf_parcial)
-* [ext0291-subcuenta_irpf](./ext0291-subcuenta_irpf)
 
+[volver al sub-índice](#subindice)
 
 [volver al índice](#indice)
 
 --
 
 #### 4. de ALMACEN:
+
+#### Subindice:
 
 * [ext0015-subfamilias](./ext0015-subfamilias)
 * [ext0031-articulos_comp](./ext0031-articulos_comp)
@@ -157,12 +166,15 @@
 * [ext0239-visorprecios](./ext0239-visorprecios)
 * [ext0576-camposarticulos](./ext0576-camposarticulos)
 
+[volver al sub-índice](#subindice)
 
 [volver al índice](#indice)
 
 --
 
 #### 5. de TESORERIA:
+
+#### Subindice:
 
 * [ext0359-norma68](./ext0359-norma68)
 * [ext0361-pagos_remesa](./ext0361-pagos_remesa)
@@ -199,12 +211,15 @@
 * [ext0725-anticipos_prov](./ext0725-anticipos_prov)
 * [ext0417-gasto_devol_cli](./ext0417-gasto_devol_cli)
 
+[volver al sub-índice](#subindice)
 
 [volver al índice](#indice)
 
 --
 
 #### 6. de TPV:
+
+#### Subindice:
 
 * [ext0127-tpv_ns_acomp](./ext0127-tpv_ns_acomp)
 * [ext0034-tpv_allcol_bar](./ext0034-tpv_allcol_bar)
@@ -228,12 +243,15 @@
 * [ext0739-tpv_tarj_reg](./ext0739-tpv_tarj_reg)
 * [ext0738-tec_printer](./ext0738-tec_printer)
 
+[volver al sub-índice](#subindice)
 
 [volver al índice](#indice)
 
 --
 
 #### 7. de TRANSPORTE:
+
+#### Subindice:
 
 * [ext0004-portes](./ext0004-portes)
 * [ext0400-ag_transporte](./ext0400-ag_transporte)
@@ -245,12 +263,15 @@
 * [ext0701-incoterms](./ext0701-incoterms)
 * [ext0462-portes_dtoesp](./ext0462-portes_dtoesp) 
 
+[volver al sub-índice](#subindice)
 
 [volver al índice](#indice)
 
 --
 
 #### 8. de FACTURACION:
+
+#### Subindice:
 
 * [ext0022-dias_pago_prov](./ext0022-dias_pago_prov)
 * [ext0006-rappel](./ext0006-rappel)
@@ -284,12 +305,15 @@
 * [ext0639-dto_total](./ext0639-dto_total)
 * [ext0319-dtoesp_subctav](./ext0319-dtoesp_subctav)
 
+[volver al sub-índice](#subindice)
 
 [volver al índice](#indice)
 
 --
 
 #### 9. de FACTURACION-PRINCIPAL:
+
+#### Subindice:
 
 * [ext0018-numeros_serie](./ext0018-numeros_serie)
 * [ext0152-produccion](./ext0152-produccion)
@@ -307,12 +331,15 @@
 * [ext0374-calendario_lab](./ext0374-calendario_lab)
 * [ext0420-intrastat](./ext0420-intrastat)
 
+[volver al sub-índice](#subindice)
 
 [volver al índice](#indice)
 
 --
 
 #### 10. de SISTEMA:
+
+#### Subindice:
 
 * [ext0219-export_bds](./ext0219-export_bds)
 * [ext0559-exportar_csv](./ext0559-exportar_csv)  
@@ -336,7 +363,7 @@
 * [ext0757-magento_tc](./ext0757-magento_tc)
 * [ext0729-exportar_edi](./ext0729-exportar_edi)
 
-
+[volver al sub-índice](#subindice)
 
 [volver al índice](#indice)
 
@@ -344,6 +371,8 @@
 
 
 #### 11. de CRM:
+
+#### Subindice:
 
 * [ext0554-bi_crm](./ext0554-bi_crm)
 * [ext0061-fun_crm](./ext0061-fun_crm)
@@ -356,6 +385,7 @@
 * [ext0722-pedidos_marco](./ext0722-pedidos_marco)
 * [ext0656-presup_anuales](./ext0656-presup_anuales)
 
+[volver al sub-índice](#subindice)
 
 [volver al índice](#indice)
 
@@ -364,34 +394,34 @@
 
 
 
-* [ext0234-alb_multi_ped](./ext0234-alb_multi_ped)
-* [ext0251-listados_tabla](./ext0251-listados_tabla)
-* [ext0260-control_horas](./ext0260-control_horas)
-* [ext0265-publicaciones](./ext0265-publicaciones) 
-* [ext0281-gene_albaranesc](./ext0281-gene_albaranesc) 
-*  [ext0344-proyectos_cc](./ext0344-proyectos_cc)
-*  [ext0367-sga_barcode](./ext0367-sga_barcode)
-*  [ext0369-versiones_pres](./ext0369-versiones_pres)
-*  [ext0448-partidas_fact](./ext0448-partidas_fact)
-*  [ext0456-cambio_ejer_alb](./ext0456-cambio_ejer_alb)  
-*  [ext0512-edit_fact_bloq](./ext0512-edit_fact_bloq)
-*  [ext0519-envio_fax](./ext0519-envio_fax)
-*  [ext0562-ped_auto_dto](./ext0562-ped_auto_dto)
-*  [ext0588-fact_per_dto](./ext0588-fact_per_dto)
-*  [ext0589-wg_mensajes](./ext0589-wg_mensajes)
-*  [ext0602-fras_import](./ext0602-fras_import)
-*  [ext0610-tabla_to_csv](./ext0610-tabla_to_csv)
-*  [ext0625-traza_ns](./ext0625-traza_ns)
-*  [ext0641-saas](./ext0641-saas)
-*  [ext0650-punto_entrada](./ext0650-punto_entrada)
-*  [ext0663-servicioscli_nl](./ext0663-servicioscli_nl)
-*  [ext0691-pedidos_auto_tc](./ext0691-pedidos_auto_tc)
-*  [ext0692-contratos_memp](./ext0692-contratos_memp)
-*  [ext0693-multiempresa_cc](./ext0693-multiempresa_cc)
-*  [ext0694-contratos_cc](./ext0694-contratos_cc)
-*  [ext0721-distri_alb_ejer](./ext0721-distri_alb_ejer)
-*  [ext0732-iva_nav](./ext0732-iva_nav)
-* [ ext0737-tabla_editable](./ext0737-tabla_editable)
-* [ ext0748-rx_pedidosprov](./ext0748-rx_pedidosprov)
-*  [sga_](./  *  [sga_  
+* [ext0234-alb_multi_ped](./ext0234-alb_multi_ped) Generar albaranes a partir de múltiples pedidos
+* [ext0251-listados_tabla](./ext0251-listados_tabla) Funcionalidad para exportar tablas a archivos .cvs
+* [ext0260-control_horas](./ext0260-control_horas) Control de horas de operarios
+* [ext0265-publicaciones](./ext0265-publicaciones) Control de publicaciones, suscripciones y facturación de las mismas
+* [ext0281-gene_albaranesc](./ext0281-gene_albaranesc) Generación de albaranes de cliente parciales
+* [ext0344-proyectos_cc](./ext0344-proyectos_cc)
+* [ext0367-sga_barcode](./ext0367-sga_barcode)
+* [ext0369-versiones_pres](./ext0369-versiones_pres)
+* [ext0448-partidas_fact](./ext0448-partidas_fact)
+* [ext0456-cambio_ejer_alb](./ext0456-cambio_ejer_alb)  
+* [ext0512-edit_fact_bloq](./ext0512-edit_fact_bloq)
+* [ext0519-envio_fax](./ext0519-envio_fax)
+* [ext0562-ped_auto_dto](./ext0562-ped_auto_dto)
+* [ext0588-fact_per_dto](./ext0588-fact_per_dto)
+* [ext0589-wg_mensajes](./ext0589-wg_mensajes)
+* [ext0602-fras_import](./ext0602-fras_import)
+* [ext0610-tabla_to_csv](./ext0610-tabla_to_csv)
+* [ext0625-traza_ns](./ext0625-traza_ns)
+* [ext0641-saas](./ext0641-saas)
+* [ext0650-punto_entrada](./ext0650-punto_entrada)
+* [ext0663-servicioscli_nl](./ext0663-servicioscli_nl)
+* [ext0691-pedidos_auto_tc](./ext0691-pedidos_auto_tc)
+* [ext0692-contratos_memp](./ext0692-contratos_memp)
+* [ext0693-multiempresa_cc](./ext0693-multiempresa_cc)
+* [ext0694-contratos_cc](./ext0694-contratos_cc)
+* [ext0721-distri_alb_ejer](./ext0721-distri_alb_ejer)
+* [ext0732-iva_nav](./ext0732-iva_nav)
+* [ext0737-tabla_editable](./ext0737-tabla_editable)
+* [ext0748-rx_pedidosprov](./ext0748-rx_pedidosprov)
+* [sga_](./sga_)  
 
