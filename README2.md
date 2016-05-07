@@ -146,32 +146,32 @@
 
 #### Subindice-Almacen:
 
-* [ext0003-pesos_medidas](./ext0003-pesos_medidas)
-* [ext0008-envases](./ext0008-envases)
-* [ext0015-subfamilias](./ext0015-subfamilias)
-* [ext0017-tallas_colores](./ext0017-tallas_colores)
-* [ext0031-articulos_comp](./ext0031-articulos_comp)
-* [ext0043-act_precio](./ext0043-act_precio)
-* [ext0053-tallcol_barcode](./ext0053-tallcol_barcode)
-* [ext0096-traza_envases](./ext0096-traza_envases)
-* [ext0135-trazabilidad](./ext0135-trazabilidad)
-* [ext0171-prod_barcode](./ext0171-prod_barcode)
-* [ext0180-prod_sofa](./ext0180-prod_sofa)
-* [ext0239-visorprecios](./ext0239-visorprecios)
-* [ext0338-art_obsoletos](./ext0338-art_obsoletos)
+* [ext0003-pesos_medidas](./ext0003-pesos_medidas) Pesos y medidas en los artículos y la facturación
+* [ext0008-envases](./ext0008-envases) Agrupación de un determinado número de unidades de un artículo en grupos o envases
+* [ext0015-subfamilias](./ext0015-subfamilias) Subfamilias: agrupación de familias en conjuntos
+* [ext0017-tallas_colores](./ext0017-tallas_colores) Subfamilias: agrupación de familias en conjuntos
+* [ext0031-articulos_comp](./ext0031-articulos_comp) Artículos compuestos: kits de productos
+* [ext0043-act_precio](./ext0043-act_precio) Actualización de precios de artículos a partir de un fichero de texto
+* [ext0053-tallcol_barcode](./ext0053-tallcol_barcode) Gestión de tallas y colores por combinaciones talla-color (barcodes)
+* [ext0096-traza_envases](./ext0096-traza_envases) Trazabilidad + Envases
+* [ext0135-trazabilidad](./ext0135-trazabilidad) Trazabilidad (seguimiento de entradas y salidas) de artículos
+* [ext0171-prod_barcode](./ext0171-prod_barcode) Producción para artículos con tallas y colores
+* [ext0180-prod_sofa](./ext0180-prod_sofa) Producción adaptada a la fabricación de sofás
+* [ext0239-visorprecios](./ext0239-visorprecios) Visor de precios de los artículos
+* [ext0338-art_obsoletos](./ext0338-art_obsoletos) Artículos obsoletos o descatalogados
 * [ext0367-sga_barcode](./ext0367-sga_barcode) Sistema de gestión de almacén para artículos con tallas y colores
-* [ext0408-eti_articulo](./ext0408-eti_articulo)
-* [ext0409-eti_barcode](./ext0409-eti_barcode)
-* [ext0444-stocks_cabecera](./ext0444-stocks_cabecera)  
-* [ext0447-lineas_alma](./ext0447-lineas_alma)
-* [ext0507-packing_list](./ext0507-packing_list)
-* [ext0576-camposarticulos](./ext0576-camposarticulos)
+* [ext0408-eti_articulo](./ext0408-eti_articulo) Etiquetas por artículo en artículos y albaranes de proveedor
+* [ext0409-eti_barcode](./ext0409-eti_barcode) Etiquetas por barcode y albarán de proveedor
+* [ext0444-stocks_cabecera](./ext0444-stocks_cabecera) Control de stock desde la cabecera de documentos de entrada / salida
+* [ext0447-lineas_alma](./ext0447-lineas_alma) Almacén por línea de documento
+* [ext0507-packing_list](./ext0507-packing_list) Packing list a partir de albaranes de cliente
+* [ext0576-camposarticulos](./ext0576-camposarticulos) Edición múltiple de campos en los artículos
 * [ext0625-traza_ns](./ext0625-traza_ns) Trazabilidad con números de serie
-* [ext0632-lineas_alma_kit](./ext0632-lineas_alma_kit)
-* [ext0658-maquinas](./ext0658-maquinas)
-* [ext0734-alta_simple_art](./ext0734-alta_simple_art)
-* [ext0751-art_complejos](./ext0751-art_complejos)
-* [ext0760-stockAcumulado](./ext0760-stockAcumulado)
+* [ext0632-lineas_alma_kit](./ext0632-lineas_alma_kit) Almacén en lineas para artículos compuesto
+* [ext0658-maquinas](./ext0658-maquinas) Gestión de máquinas revisiones y averías
+* [ext0734-alta_simple_art](./ext0734-alta_simple_art) Alta simple de artículos
+* [ext0751-art_complejos](./ext0751-art_complejos) Artículos complejos
+* [ext0760-stockAcumulado](./ext0760-stockAcumulado) Cuando hay ventas en varios puestos a la vez de un mismo artículo en lugar de bloquearse el stock del artículo se acumula.
 * [sga_](./sga_) Sistema de gestión de almacenes
 
 [volver al sub-índice-Almacén](#subindice-almacen)
