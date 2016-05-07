@@ -19,7 +19,7 @@
 
 #### 1. de INFORMES de ESTADISTICAS de VENTAS:
 
-#### Subindice:
+#### Subindice-Ventas:
 
 1. [ext0039-info_ventasmes](#1-ext0039-info_ventasmes) Informe de unidades vendidas de cada artículo de una familia en cada mes o intervalo
 2. [ext0068-info_ventascli](#2-ext0068-info_ventascli) Informe de clientes con datos de ventas por cliente
@@ -37,7 +37,7 @@
 
 ![imagen resultado] (./ext0039-info_ventasmes/doc/ext0039-resultado-informe-ventas-mes.jpg)
 
-[volver al sub-índice](#subindice)
+[volver al sub-índice Ventas](#subindice-ventas)
 
 --
 ####2. ext0068-info_ventascli
@@ -46,7 +46,7 @@
 
 ![imagen resultado] (./ext0068-info_ventascli/doc/ext0068-resultado-ventas-cliente.jpg)
 
-[volver al sub-índice](#subindice)
+[volver al sub-índice Ventas](#subindice-ventas)
 
 --
 ####3. ext0075-info_ventasmcli
@@ -55,7 +55,7 @@
 
 ![imagen resultado] (./ext0075-info_ventasmcli/doc/ext0075-resultado-informe-ventasmcli.jpg)
 
-[volver al sub-índice](#subindice)
+[volver al sub-índice Ventas](#subindice-ventas)
 
 --
 ####4. ext0337-estventascli
@@ -64,7 +64,7 @@
 
 ![imagen resultado] (./ext0337-estventascli/doc/ext0337-edicion-criterios-estventascli.jpg)
 
-[volver al sub-índice](#subindice)
+[volver al sub-índice Ventas](#subindice-ventas)
 
 --
 ####5. ext0652-info_ventasmfam
@@ -73,7 +73,7 @@
 
 ![imagen resultado] (./ext0652-info_ventasmfam/doc/ext0652-resultado-informe-ventasmfam.jpg)
 
-[volver al sub-índice](#subindice)
+[volver al sub-índice Ventas](#subindice-ventas)
 
 [volver al índice](#indice)
 
@@ -81,7 +81,7 @@
 
 #### 2. de OTROS INFORMES:
 
-#### Subindice:
+#### Subindice-Otros-Informes:
 
 * [ext0005-info_vencimtos](./ext0005-info_vencimtos) Informe de vencimientos de recibos de clientes y proveedores
 * [ext0011-info_riesgocli](./ext0011-info_riesgocli) Informe de riesgo acumulado de clientes.
@@ -94,7 +94,7 @@
 * [ext0167-informes_odt](./ext0167-informes_odt) Informes con formato OpenOffice
 * [ext0240-info_facturatot](./ext0240-info_facturatot) Informes totalizados de facturación por día, mes y trimestre
 
-[volver al sub-índice](#subindice)
+[volver al sub-índice Otros-Informes](#subindice-otros-informes)
 
 [volver al índice](#indice)
 
@@ -102,7 +102,7 @@
 
 #### 3. de CONTABILIDAD:
 
-#### Subindice:
+#### Subindice-Contabilidad:
 
 * [ext0020-ren_asientos](./ext0020-ren_asientos) Renumeración automática de asientos
 * [ext0086-punteo_cont](./ext0086-punteo_cont) Punteo y casación de partidas en contabilidad
@@ -136,7 +136,7 @@
 * [ext0721-distri_alb_ejer](./ext0721-distri_alb_ejer) Distribución de albaranes entre ejercicios
 * [ext0732-iva_nav](./ext0732-iva_nav) Gestión contable de IVA Navision Style
 
-[volver al sub-índice](#subindice)
+[volver al sub-índice Contabilidad](#subindice-contabilidad)
 
 [volver al índice](#indice)
 
@@ -144,7 +144,7 @@
 
 #### 4. de ALMACEN:
 
-#### Subindice:
+#### Subíndice-Almacén:
 
 * [ext0003-pesos_medidas](./ext0003-pesos_medidas)
 * [ext0008-envases](./ext0008-envases)
@@ -174,7 +174,7 @@
 * [ext0760-stockAcumulado](./ext0760-stockAcumulado)
 * [sga_](./sga_) Sistema de gestión de almacenes
 
-[volver al sub-índice](#subindice)
+[volver al sub-índice-Almacén](#subindice-almacen)
 
 [volver al índice](#indice)
 
