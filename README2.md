@@ -108,31 +108,31 @@
 * [ext0086-punteo_cont](./ext0086-punteo_cont) Punteo y casación de partidas en contabilidad
 * [ext0088-balan_multiem](./ext0088-balan_multiem) Balances contables multiempresa
 * [ext0128-irpf_parcial](./ext0128-irpf_parcial) Redondea los asientos de la contabilidad
-* [ext0153-redon_asientos](./ext0153-redon_asientos)
+* [ext0153-redon_asientos](./ext0153-redon_asientos) Redondea los asientos de la contabilidad
 * [ext0223-centroscoste](./ext0223-centroscoste) Contabilidad por centros de coste
 * [ext0224-pgc2008](./ext0224-pgc2008) Adaptaciones al nuevo plan general contable 2008
-* [ext0272-cambio_ejerc](./ext0272-cambio_ejerc)
-* [ext0291-subcuenta_irpf](./ext0291-subcuenta_irpf)
+* [ext0272-cambio_ejerc](./ext0272-cambio_ejerc) Cambio de facturación y contabilidad de un ejercicio a otro
+* [ext0291-subcuenta_irpf](./ext0291-subcuenta_irpf) Subcuentas de IRPF asociadas a Clientes y Proveedores
 * [ext0314-ccoste_pgc2008](./ext0314-ccoste_pgc2008) Informes contables 2008 por centros de coste
 * [ext0320-modelo201](./ext0320-modelo201) Modelo fiscal 201 (Impuesto de Sociedades)
 * [ext0344-proyectos_cc](./ext0344-proyectos_cc) Módulo de proyectos con la extensión de centros de coste
-* [ext0430-modelo303](./ext0430-modelo303)
-* [ext0437-base_modelos](./ext0437-base_modelos)
-* [ext0443-modelo340](./ext0443-modelo340)
+* [ext0430-modelo303](./ext0430-modelo303) Modelo fiscal 303
+* [ext0437-base_modelos](./ext0437-base_modelos) Extensión base para modelos fiscales
+* [ext0443-modelo340](./ext0443-modelo340) Modelo fiscal 340
 * [ext0457-modelo300](./ext0457-modelo300) Modelo fiscal 300
-* [ext0458-modelo320](./ext0458-modelo320)
-* [ext0459-modelo347](./ext0459-modelo347)
-* [ext0460-modelo390](./ext0460-modelo390)
-* [ext0461-modelo349](./ext0461-modelo349)
-* [ext0467-modelo115](./ext0467-modelo115)
-* [ext0471-modelo180](./ext0471-modelo180)
-* [ext0472-modelo392](./ext0472-modelo392)
-* [ext0489-libros_conta](./ext0489-libros_conta)
-* [ext0495-digit_contable](./ext0495-digit_contable)  
-* [ext0517-balan_mul_08](./ext0517-balan_mul_08)
+* [ext0458-modelo320](./ext0458-modelo320) Modelo fiscal 320
+* [ext0459-modelo347](./ext0459-modelo347) Modelo fiscal 347
+* [ext0460-modelo390](./ext0460-modelo390) Modelo fiscal 390 (falta actualizar a 2009)
+* [ext0461-modelo349](./ext0461-modelo349) Modelo fiscal 349
+* [ext0467-modelo115](./ext0467-modelo115) Modelo fiscal 115
+* [ext0471-modelo180](./ext0471-modelo180) Modelo fiscal 180
+* [ext0472-modelo392](./ext0472-modelo392) Modelo fiscal 392
+* [ext0489-libros_conta](./ext0489-libros_conta) Generación de ficheros de libros contables
+* [ext0495-digit_contable](./ext0495-digit_contable) Digitalización contable
+* [ext0517-balan_mul_08](./ext0517-balan_mul_08) Balances contables multiempresa PGC 08
 * [ext0693-multiempresa_cc](./ext0693-multiempresa_cc) Multiempresa + Centro de coste
 * [ext0694-contratos_cc](./ext0694-contratos_cc) Contratos con centros de coste
-* [ext0709-inf_diariomes](./ext0709-inf_diariomes)
+* [ext0709-inf_diariomes](./ext0709-inf_diariomes) Informe de Libro Diario de contabilidad agrupado por meses
 * [ext0721-distri_alb_ejer](./ext0721-distri_alb_ejer) Distribución de albaranes entre ejercicios
 * [ext0732-iva_nav](./ext0732-iva_nav) Gestión contable de IVA Navision Style
 
