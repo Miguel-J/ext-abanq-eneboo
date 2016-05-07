@@ -403,19 +403,19 @@
 
 #### Subindice-CRM:
 
-* [ext0023-asociar_presup](./ext0023-asociar_presup)
-* [ext0030-pedido_prov_cli](./ext0030-pedido_prov_cli)
-* [ext0046-cli_potencial](./ext0046-cli_potencial)
-* [ext0061-fun_crm](./ext0061-fun_crm)
-* [ext0158-presup_oferta](./ext0158-presup_oferta)
-* [ext0288-proyectos_crm](./ext0288-proyectos_crm)
+* [ext0023-asociar_presup](./ext0023-asociar_presup) Asociación (agrupación) de varios presupuestos en un pedido
+* [ext0030-pedido_prov_cli](./ext0030-pedido_prov_cli) Generación de pedidos a proveedor a partir de pedidos de cliente
+* [ext0046-cli_potencial](./ext0046-cli_potencial) Clientes potenciales a los que puede hacerse presupuesto y convertir en clientes reales
+* [ext0061-fun_crm](./ext0061-fun_crm) Funcionalidad para adaptar los módulos oficiales al CRM
+* [ext0158-presup_oferta](./ext0158-presup_oferta) Presupuestos con formato documento de texto
+* [ext0288-proyectos_crm](./ext0288-proyectos_crm) Módulo de proyectos con datos del módulo crm
 * [ext0369-versiones_pres](./ext0369-versiones_pres) Versiones de presupuestos
-* [ext0554-bi_crm](./ext0554-bi_crm)
-* [ext0585-envio_mail_crm](./ext0585-envio_mail_crm)
-* [ext0656-presup_anuales](./ext0656-presup_anuales)
-* [ext0722-pedidos_marco](./ext0722-pedidos_marco)
+* [ext0554-bi_crm](./ext0554-bi_crm) Business Intelligence para incidencias de CRM
+* [ext0585-envio_mail_crm](./ext0585-envio_mail_crm) Envío de correo electrónico desde el módulo de crm
+* [ext0656-presup_anuales](./ext0656-presup_anuales) Contabilidad presupuestaria anual
+* [ext0722-pedidos_marco](./ext0722-pedidos_marco) Pedidos marco acordados con clientes para ciertos artículos y período de tiempo
 
-[volver al sub-índice](#subindice-crm)
+[volver al sub-índice CRM](#subindice-crm)
 
 [volver al índice](#indice)
 
