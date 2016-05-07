@@ -144,7 +144,7 @@
 
 #### 4. de ALMACEN:
 
-#### Subíndice-Almacén:
+#### Subindice-Almacen:
 
 * [ext0003-pesos_medidas](./ext0003-pesos_medidas)
 * [ext0008-envases](./ext0008-envases)
@@ -182,7 +182,7 @@
 
 #### 5. de TESORERIA:
 
-#### Subindice:
+#### Subindice-Tesoreria:
 
 * [ext0002-norma58](./ext0002-norma58)
 * [ext0014-recibos_prov](./ext0014-recibos_prov)
@@ -219,7 +219,7 @@
 * [ext0725-anticipos_prov](./ext0725-anticipos_prov)
 * [ext0758-pagareMultipago](./ext0758-pagareMultipago)
 
-[volver al sub-índice](#subindice)
+[volver al sub-índice-Tesorería](#subindice-tesoreria)
 
 [volver al índice](#indice)
 
@@ -227,7 +227,7 @@
 
 #### 6. de TPV:
 
-#### Subindice:
+#### Subindice-TPV:
 
 * [ext0034-tpv_allcol_bar](./ext0034-tpv_allcol_bar)
 * [ext0051-tpv_iva_incl](./ext0051-tpv_iva_incl)
@@ -251,7 +251,7 @@
 * [ext0738-tec_printer](./ext0738-tec_printer)
 * [ext0739-tpv_tarj_reg](./ext0739-tpv_tarj_reg)
 
-[volver al sub-índice](#subindice)
+[volver al sub-índice-TPV](#subindice-tpv)
 
 [volver al índice](#indice)
 
@@ -259,7 +259,7 @@
 
 #### 7. de TRANSPORTE:
 
-#### Subindice:
+#### Subindice-Transporte:
 
 * [ext0004-portes](./ext0004-portes)
 * [ext0056-portes_prov](./ext0056-portes_prov)
@@ -271,7 +271,7 @@
 * [ext0577-paqueteria](./ext0577-paqueteria)
 * [ext0701-incoterms](./ext0701-incoterms)
 
-[volver al sub-índice](#subindice)
+[volver al sub-índice-Transporte](#subindice-transporte)
 
 [volver al índice](#indice)
 
@@ -279,7 +279,7 @@
 
 #### 8. de FACTURACION:
 
-#### Subindice:
+#### Subindice-Facturacion:
 
 * [ext0001-cta_venta_artic](./ext0001-cta_venta_artic)
 * [ext0006-rappel](./ext0006-rappel)
@@ -325,7 +325,7 @@
 * [ext0715-alquileres](./ext0715-alquileres)
 * [ext0748-rx_pedidosprov](./ext0748-rx_pedidosprov) Control de recepción de líneas de pedidos de proveedor. Se busca un pedido y se indican las cantidades recibidas de cada línea para poder albaranar lo recibido.
 
-[volver al sub-índice](#subindice)
+[volver al sub-índice-Facturación](#subindice-facturacion)
 
 [volver al índice](#indice)
 
@@ -333,7 +333,7 @@
 
 #### 9. de FACTURACION-PRINCIPAL:
 
-#### Subindice:
+#### Subindice-Facturacion-Principal:
 
 * [ext0018-numeros_serie](./ext0018-numeros_serie)
 * [ext0152-produccion](./ext0152-produccion)
@@ -352,7 +352,7 @@
 * [ext0599-cambio_iva](./ext0599-cambio_iva)
 * [ext0742-email_facturas](./ext0742-email_facturas)
 
-[volver al sub-índice](#subindice)
+[volver al sub-índice-Facturacion-Principal](#subindice-facturacion-principal)
 
 [volver al índice](#indice)
 
@@ -360,7 +360,7 @@
 
 #### 10. de SISTEMA:
 
-#### Subindice:
+#### Subindice-Sistema:
 
 * [ext0087-fun_chile](./ext0087-fun_chile)
 * [ext0009-batch_docs](./ext0009-batch_docs)
@@ -392,7 +392,7 @@
 * [ext0756-magento](./ext0756-magento)
 * [ext0757-magento_tc](./ext0757-magento_tc)
 
-[volver al sub-índice](#subindice)
+[volver al sub-índice-Sistema](#subindice-sistema)
 
 [volver al índice](#indice)
 
