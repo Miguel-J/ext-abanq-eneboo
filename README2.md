@@ -261,15 +261,15 @@
 
 #### Subindice-Transporte:
 
-* [ext0004-portes](./ext0004-portes)
-* [ext0056-portes_prov](./ext0056-portes_prov)
-* [ext0400-ag_transporte](./ext0400-ag_transporte)
-* [ext0416-rutas](./ext0416-rutas)
-* [ext0462-portes_dtoesp](./ext0462-portes_dtoesp) 
-* [ext0527-consulta_envio](./ext0527-consulta_envio)
-* [ext0528-ag_trans_base](./ext0528-ag_trans_base)
-* [ext0577-paqueteria](./ext0577-paqueteria)
-* [ext0701-incoterms](./ext0701-incoterms)
+* [ext0004-portes](./ext0004-portes) Valor de portes por cada cliente, a aplicar en la facturación
+* [ext0056-portes_prov](./ext0056-portes_prov) Valor de portes por cada proveedor, a aplicar en la facturación
+* [ext0400-ag_transporte](./ext0400-ag_transporte) Agencias de transporte
+* [ext0416-rutas](./ext0416-rutas) Extensión de rutas
+* [ext0462-portes_dtoesp](./ext0462-portes_dtoesp) Portes + Descuento especial
+* [ext0527-consulta_envio](./ext0527-consulta_envio) Consulta de envío a través de las webs de los transportistas
+* [ext0528-ag_trans_base](./ext0528-ag_trans_base) Funcionalidad base para agencias de transporte
+* [ext0577-paqueteria](./ext0577-paqueteria) paqueteria
+* [ext0701-incoterms](./ext0701-incoterms) Asociación de documentos de compra y venta a Incoterms
 
 [volver al sub-índice-Transporte](#subindice-transporte)
 
