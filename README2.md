@@ -335,22 +335,22 @@
 
 #### Subindice-Facturacion-Principal:
 
-* [ext0018-numeros_serie](./ext0018-numeros_serie)
-* [ext0152-produccion](./ext0152-produccion)
-* [ext0200-etiquetascli](./ext0200-etiquetascli)
+* [ext0018-numeros_serie](./ext0018-numeros_serie) Control de números de serie en los artículos
+* [ext0152-produccion](./ext0152-produccion) Adaptación para producción
+* [ext0200-etiquetascli](./ext0200-etiquetascli) Informes de etiquetas de clientes y proveedores
 * [ext0234-alb_multi_ped](./ext0234-alb_multi_ped) Generar albaranes a partir de múltiples pedidos
-* [ext0349-tarifas_fact](./ext0349-tarifas_fact)
-* [ext0351-tarifas_tc_bar](./ext0351-tarifas_tc_bar)
-* [ext0354-mas_formaspago](./ext0354-mas_formaspago)
-* [ext0401-poblaciones](./ext0401-poblaciones)
-* [ext0413-vacaciones_cli](./ext0413-vacaciones_cli)
-* [ext0374-calendario_lab](./ext0374-calendario_lab)
-* [ext0420-intrastat](./ext0420-intrastat)
-* [ext0532-marca_impresion](./ext0532-marca_impresion)
-* [ext0536-persona_fisica](./ext0536-persona_fisica)
-* [ext0539-wg_agenda](./ext0539-wg_agenda)
-* [ext0599-cambio_iva](./ext0599-cambio_iva)
-* [ext0742-email_facturas](./ext0742-email_facturas)
+* [ext0349-tarifas_fact](./ext0349-tarifas_fact) Control de tarifas en la facturación
+* [ext0351-tarifas_tc_bar](./ext0351-tarifas_tc_bar) Adaptación de tarifas_fact (tarifas en documentos de facturación) a tallcol_barcode
+* [ext0354-mas_formaspago](./ext0354-mas_formaspago) mas_formaspago
+* [ext0401-poblaciones](./ext0401-poblaciones) Tabla de poblaciones asociada a provincias
+* [ext0413-vacaciones_cli](./ext0413-vacaciones_cli) Salto en los vencimientos cuando caen en el período de vacaciones del cliente
+* [ext0374-calendario_lab](./ext0374-calendario_lab) Calendario y horario laboral
+* [ext0420-intrastat](./ext0420-intrastat) Sistema de declaración intrastat
+* [ext0532-marca_impresion](./ext0532-marca_impresion) Posibilidad de poder marcar los documentos como impresos
+* [ext0536-persona_fisica](./ext0536-persona_fisica) Cliente/proveedor como persona física o jurídica
+* [ext0539-wg_agenda](./ext0539-wg_agenda) Widget para agenda
+* [ext0599-cambio_iva](./ext0599-cambio_iva) Adaptación a los nuevos porcentajes de IVA
+* [ext0742-email_facturas](./ext0742-email_facturas) Envío masivo de facturas a clientes
 
 [volver al sub-índice-Facturacion-Principal](#subindice-facturacion-principal)
 
@@ -362,35 +362,35 @@
 
 #### Subindice-Sistema:
 
-* [ext0087-fun_chile](./ext0087-fun_chile)
-* [ext0009-batch_docs](./ext0009-batch_docs)
-* [ext0059-canarias](./ext0059-canarias)
-* [ext0074-backups](./ext0074-backups)
-* [ext0125-cambio_empresas](./ext0125-cambio_empresas)
-* [ext0154-batch_servired](./ext0154-batch_servired)
-* [ext0187-tcbarco_estoreq](./ext0187-tcbarco_estoreq)
-* [ext0194-import_bds](./ext0194-import_bds)
-* [ext0219-export_bds](./ext0219-export_bds)
+* [ext0009-batch_docs](./ext0009-batch_docs) Creación masiva de albaranes a partir de pedidos, facturas a partir de albaranes, etc
+* [ext0059-canarias](./ext0059-canarias) Adaptación de los módulos oficiales de facturación para las Islas Canarias (I.G.I.C.), etc.
+* [ext0074-backups](./ext0074-backups) Generación y recuperación de ficheros de backup desde Abanq
+* [ext0087-fun_chile](./ext0087-fun_chile) Adaptación a Chile
+* [ext0125-cambio_empresas](./ext0125-cambio_empresas) Cambio de empresa desde el módulo principal de facturación
+* [ext0154-batch_servired](./ext0154-batch_servired) Operaciones Batch Servired
+* [ext0187-tcbarco_estoreq](./ext0187-tcbarco_estoreq) Adaptación de tallas y colores por barcode a eStoreQ
+* [ext0194-import_bds](./ext0194-import_bds) Importación de datos de facturación y contabilidad (complementa a export_bds)
+* [ext0219-export_bds](./ext0219-export_bds) Exportación de datos de facturación y contabilidad (complementa a import_bds)
 * [ext0251-listados_tabla](./ext0251-listados_tabla) Funcionalidad para exportar tablas a archivos .cvs
 * [ext0260-control_horas](./ext0260-control_horas) Control de horas de operarios
-* [ext0411-traducciones](./ext0411-traducciones)
-* [ext0412-inf_multiidioma](./ext0412-inf_multiidioma)
-* [ext0450-envio_mail](./ext0450-envio_mail)
-* [ext0496-ar2kut](./ext0496-ar2kut)
-* [ext0514-multiempresa](./ext0514-multiempresa)
+* [ext0411-traducciones](./ext0411-traducciones) Extensión de traducción
+* [ext0412-inf_multiidioma](./ext0412-inf_multiidioma) Informes con posibilidad de traducción de las etiquetas
+* [ext0450-envio_mail](./ext0450-envio_mail) Envío de correo electrónico a clientes y proveedores
+* [ext0496-ar2kut](./ext0496-ar2kut) Conversor de ficheros .ar a .kut
+* [ext0514-multiempresa](./ext0514-multiempresa) Varias empresas en la misma BD
 * [ext0519-envio_fax](./ext0519-envio_fax) Envío de documentos por fax
-* [ext0521-config_ooffice](./ext0521-config_ooffice)
-* [ext0526-conf_navegador](./ext0526-conf_navegador)
-* [ext0559-exportar_csv](./ext0559-exportar_csv)  
+* [ext0521-config_ooffice](./ext0521-config_ooffice) Botón de configuración de comando Open Office
+* [ext0526-conf_navegador](./ext0526-conf_navegador) Permite indicar el navegador a usar al abrir páginas web desde Abanq
+* [ext0559-exportar_csv](./ext0559-exportar_csv) Exportar tablas a ficheros .csv
 * [ext0589-wg_mensajes](./ext0589-wg_mensajes) Widget para el envío de mensajes entre usuarios
 * [ext0610-tabla_to_csv](./ext0610-tabla_to_csv) Exporta una tabla a csv estandar de forma silenciosa
 * [ext0641-saas](./ext0641-saas) Gestión de usuarios y suscripciones en SaaS
 * [ext0650-punto_entrada](./ext0650-punto_entrada) Ventana de punto de entrada genérico a la aplicación
-* [ext0661-sincro_catalogo](./ext0661-sincro_catalogo)
-* [ext0729-exportar_edi](./ext0729-exportar_edi)
+* [ext0661-sincro_catalogo](./ext0661-sincro_catalogo) Sincronización de familias y artículos de una BD a otra
+* [ext0729-exportar_edi](./ext0729-exportar_edi) Herramienta para definir exportaciones de datos para plataformas EDI
 * [ext0737-tabla_editable](./ext0737-tabla_editable) Tabla editable
-* [ext0756-magento](./ext0756-magento)
-* [ext0757-magento_tc](./ext0757-magento_tc)
+* [ext0756-magento](./ext0756-magento) Integración con Tienda Virtual Magento
+* [ext0757-magento_tc](./ext0757-magento_tc) Magento + tallas y colores
 
 [volver al sub-índice-Sistema](#subindice-sistema)
 
