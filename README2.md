@@ -184,40 +184,40 @@
 
 #### Subindice-Tesoreria:
 
-* [ext0002-norma58](./ext0002-norma58)
-* [ext0014-recibos_prov](./ext0014-recibos_prov)
-* [ext0025-comp_recibos](./ext0025-comp_recibos)
-* [ext0028-remesas_auto](./ext0028-remesas_auto)
-* [ext0029-pagos_multiples](./ext0029-pagos_multiples)
-* [ext0033-anticipos](./ext0033-anticipos)
-* [ext0054-pagos_multi_pro](./ext0054-pagos_multi_pro)
-* [ext0099-remesas_prov](./ext0099-remesas_prov)
-* [ext0100-caixaconfirming](./ext0100-caixaconfirming)
-* [ext0103-vencim_personal](./ext0103-vencim_personal)
-* [ext0108-pagares_prov](./ext0108-pagares_prov)
-* [ext0118-num_serv](./ext0118-num_serv)
-* [ext0122-num_acomp](./ext0122-num_acomp)
-* [ext0123-vencim_perso_cp](./ext0123-vencim_perso_cp)
-* [ext0124-num_serv_acomp](./ext0124-num_serv_acomp)
-* [ext0132-bsconfirming](./ext0132-bsconfirming)
-* [ext0133-comision_pagos](./ext0133-comision_pagos)
-* [ext0134-pagos_multi_rec](./ext0134-pagos_multi_rec)
-* [ext0136-pagos_prov](./ext0136-pagos_prov)
-* [ext0137-cheques_cli](./ext0137-cheques_cli)
-* [ext0157-traspaso_subcta](./ext0157-traspaso_subcta)
-* [ext0346-pagares_prov2](./ext0346-pagares_prov2)
-* [ext0359-norma68](./ext0359-norma68)
-* [ext0361-pagos_remesa](./ext0361-pagos_remesa)
-* [ext0362-norma34](./ext0362-norma34)
-* [ext0363-norma34A](./ext0363-norma34A)
-* [ext0365-servcli_rappel](./ext0365-servcli_rappel)
-* [ext0366-prev_pagos](./ext0366-prev_pagos)
-* [ext0417-gasto_devol_cli](./ext0417-gasto_devol_cli)
-* [ext0445-norma43](./ext0445-norma43)
-* [ext0451-pagares_prov3](./ext0451-pagares_prov3)
-* [ext0493-banesconfirming](./ext0493-banesconfirming)
-* [ext0725-anticipos_prov](./ext0725-anticipos_prov)
-* [ext0758-pagareMultipago](./ext0758-pagareMultipago)
+* [ext0002-norma58](./ext0002-norma58) Creación de un fichero de texto de una remesa de recibos según la norma 58
+* [ext0014-recibos_prov](./ext0014-recibos_prov) Recibos de proveedores
+* [ext0025-comp_recibos](./ext0025-comp_recibos) Compensación de recibos
+* [ext0028-remesas_auto](./ext0028-remesas_auto) Asociación de recibos a remesas de forma automática
+* [ext0029-pagos_multiples](./ext0029-pagos_multiples) Gestión de ingresos que abonan más de un recibo de cliente
+* [ext0033-anticipos](./ext0033-anticipos) Anticipos y pagos a cuenta
+* [ext0054-pagos_multi_pro](./ext0054-pagos_multi_pro) Gestión de pagos que abonan más de un recibo de proveedor
+* [ext0099-remesas_prov](./ext0099-remesas_prov) Remesas para recibos de proveedor
+* [ext0100-caixaconfirming](./ext0100-caixaconfirming) Cuaderno Caixa Confirming para remesas de proveedor
+* [ext0103-vencim_personal](./ext0103-vencim_personal) Vencimientos personalizados en fecha e importe para facturas de clientes
+* [ext0108-pagares_prov](./ext0108-pagares_prov) Pagarés a proveedores (con cálculo de códigos)
+* [ext0118-num_serv](./ext0118-num_serv) Números de serie + prestación de servicio a clientes
+* [ext0122-num_acomp](./ext0122-num_acomp) Números de serie + artículos compuestos
+* [ext0123-vencim_perso_cp](./ext0123-vencim_perso_cp) Vencimientos personalizados en fecha e importe para facturas de clientes y proveedores
+* [ext0124-num_serv_acomp](./ext0124-num_serv_acomp) Números de serie + servicios de clientes + artículos compuestos
+* [ext0132-bsconfirming](./ext0132-bsconfirming) Cuaderno Confirming para Banco de Sabadell
+* [ext0133-comision_pagos](./ext0133-comision_pagos) Comisiones en los pagos de recibos de clientes y proveedores
+* [ext0134-pagos_multi_rec](./ext0134-pagos_multi_rec) Ayuda para pagar varios recibos de cliente con una sola acción
+* [ext0136-pagos_prov](./ext0136-pagos_prov) Ayuda para pagar varios recibos de proveedor con una sola acción
+* [ext0137-cheques_cli](./ext0137-cheques_cli) Gestión de cheques de clientes
+* [ext0157-traspaso_subcta](./ext0157-traspaso_subcta) Traspaso de movimientos una subcuenta a otra
+* [ext0346-pagares_prov2](./ext0346-pagares_prov2) Pagarés a proveedores (no usar)
+* [ext0359-norma68](./ext0359-norma68) Creación de un fichero de texto de una remesa de recibos de proveedor según la norma 68
+* [ext0361-pagos_remesa](./ext0361-pagos_remesa) Gestión de pagos remesados manuales al vencimiento
+* [ext0362-norma34](./ext0362-norma34) Creación de un fichero de texto de una remesa de recibos de proveedor según la norma 34
+* [ext0363-norma34A](./ext0363-norma34A) Creación de un fichero de texto de una remesa de recibos de proveedor según la norma 34 Adaptada
+* [ext0365-servcli_rappel](./ext0365-servcli_rappel) Servicios a clientes + Rappel
+* [ext0366-prev_pagos](./ext0366-prev_pagos) Previsiones de pagos
+* [ext0417-gasto_devol_cli](./ext0417-gasto_devol_cli) Gastos por devolución de recibos de cliente
+* [ext0445-norma43](./ext0445-norma43) Importación de movimientos bancarios según la norma 43
+* [ext0451-pagares_prov3](./ext0451-pagares_prov3) Pagarés a proveedor (variante de pagares_prov con códigos preimpresos)
+* [ext0493-banesconfirming](./ext0493-banesconfirming) Cuaderno Banesto Confirming para remesas de proveedor
+* [ext0725-anticipos_prov](./ext0725-anticipos_prov) Anticipos y pagos a cuenta a proveedores
+* [ext0758-pagareMultipago](./ext0758-pagareMultipago) Realizar más de un pago y/o devolución para UN pagaré de proveedor
 
 [volver al sub-índice-Tesorería](#subindice-tesoreria)
 
@@ -229,27 +229,27 @@
 
 #### Subindice-TPV:
 
-* [ext0034-tpv_allcol_bar](./ext0034-tpv_allcol_bar)
-* [ext0051-tpv_iva_incl](./ext0051-tpv_iva_incl)
-* [ext0052-tpv_envases](./ext0052-tpv_envases)
-* [ext0058-tpv_num_serie](./ext0058-tpv_num_serie)
-* [ext0093-tpv_traza](./ext0093-tpv_traza)
-* [ext0097-tpv_traza_envas](./ext0097-tpv_traza_envas)
-* [ext0127-tpv_ns_acomp](./ext0127-tpv_ns_acomp)
-* [ext0327-tpv_cta_vta](./ext0327-tpv_cta_vta)
-* [ext0442-sincro_tpv](./ext0442-sincro_tpv)
-* [ext0573-tpv_tactil](./ext0573-tpv_tactil)
-* [ext0640-tpv_dto_esp](./ext0640-tpv_dto_esp)
-* [ext0648-tpvtact_ivainc](./ext0648-tpvtact_ivainc)  
-* [ext0659-tpv_offline](./ext0659-tpv_offline)
-* [ext0666-tpv_multitienda](./ext0666-tpv_multitienda)
-* [ext0683-tpv_tac_tc](./ext0683-tpv_tac_tc)
-* [ext0731-puntos_tpv](./ext0731-puntos_tpv)
-* [ext0733-promociones_tpv](./ext0733-promociones_tpv)
-* [ext0735-base_tpv](./ext0735-base_tpv)
-* [ext0736-tpv_multi_tc](./ext0736-tpv_multi_tc)
-* [ext0738-tec_printer](./ext0738-tec_printer)
-* [ext0739-tpv_tarj_reg](./ext0739-tpv_tarj_reg)
+* [ext0034-tpv_allcol_bar](./ext0034-tpv_allcol_bar) Adaptación de TPV para tallas y colores e IVA incluido (Obsoleta desde V 2.3.3)
+* [ext0051-tpv_iva_incl](./ext0051-tpv_iva_incl) Adaptación del TPV para artículos con IVA incluido
+* [ext0052-tpv_envases](./ext0052-tpv_envases) Envases para el módulo de TPV (Obsoleta desde 2.3.3, integrada en envases)
+* [ext0058-tpv_num_serie](./ext0058-tpv_num_serie) Adaptación del módulo de TPV para controlar números de serie
+* [ext0093-tpv_traza](./ext0093-tpv_traza) Adaptación de la extensión de trazabilidad para el módulo de TPV
+* [ext0097-tpv_traza_envas](./ext0097-tpv_traza_envas) TPV + Trazabilidad + Envases
+* [ext0127-tpv_ns_acomp](./ext0127-tpv_ns_acomp) TPV con artículos compuestos con números de serie
+* [ext0327-tpv_cta_vta](./ext0327-tpv_cta_vta) Cuenta de venta en artículos para el TPV
+* [ext0442-sincro_tpv](./ext0442-sincro_tpv) TPV Multitienda. Sincronización de ventas de TPV a una central
+* [ext0573-tpv_tactil](./ext0573-tpv_tactil) TPV táctil
+* [ext0640-tpv_dto_esp](./ext0640-tpv_dto_esp) Dto especial para TPV
+* [ext0648-tpvtact_ivainc](./ext0648-tpvtact_ivainc) Tpv Táctil + Iva Incluido
+* [ext0659-tpv_offline](./ext0659-tpv_offline) Solución TPV para tiendas offline
+* [ext0666-tpv_multitienda](./ext0666-tpv_multitienda) TPV Multitienda
+* [ext0683-tpv_tac_tc](./ext0683-tpv_tac_tc) TPV táctil + tallas y colores
+* [ext0731-puntos_tpv](./ext0731-puntos_tpv) Tpv con funcionalidad de fidelización de cliente con puntos regalo
+* [ext0733-promociones_tpv](./ext0733-promociones_tpv) TPV con funcionalidad de promociones a los clientes.
+* [ext0735-base_tpv](./ext0735-base_tpv) base tpv
+* [ext0736-tpv_multi_tc](./ext0736-tpv_multi_tc) Tpv multitienda + tallas y colores
+* [ext0738-tec_printer](./ext0738-tec_printer) Interfaz para manejar impresoras de etiquetas y rfid TOSHIBA TEC Serie B
+* [ext0739-tpv_tarj_reg](./ext0739-tpv_tarj_reg) TPV con forma de pago un artículo que hace las funciones de tarjeta regalo.
 
 [volver al sub-índice-TPV](#subindice-tpv)
 
@@ -281,48 +281,48 @@
 
 #### Subindice-Facturacion:
 
-* [ext0001-cta_venta_artic](./ext0001-cta_venta_artic)
-* [ext0006-rappel](./ext0006-rappel)
-* [ext0007-dias_pago](./ext0007-dias_pago)
-* [ext0010-dto_especial](./ext0010-dto_especial)
-* [ext0013-iva_incluido](./ext0013-iva_incluido)
-* [ext0016-servicios_cli](./ext0016-servicios_cli)
-* [ext0019-calidad_prov](./ext0019-calidad_prov)
-* [ext0022-dias_pago_prov](./ext0022-dias_pago_prov)
-* [ext0042-mail_faturac](./ext0042-mail_faturac)
-* [ext0131-fact_periodica](./ext0131-fact_periodica)
-* [ext0196-validar_cif](./ext0196-validar_cif)
-* [ext0202-bloqfacturascli](./ext0202-bloqfacturascli)
-* [ext0207-pedidos_auto](./ext0207-pedidos_auto)
-* [ext0228-efactura](./ext0228-efactura)
-* [ext0229-gene_albaranesp](./ext0229-gene_albaranesp) 
-* [ext0248-artes_graficas](./ext0248-artes_graficas)
+* [ext0001-cta_venta_artic](./ext0001-cta_venta_artic) Subcuenta de venta asociada a los artículos
+* [ext0006-rappel](./ext0006-rappel) Rappel - Descuentos automáticos por cantidad en clientes y proveedores
+* [ext0007-dias_pago](./ext0007-dias_pago) Establecimiento de determinados días del mes como días de pago para un cliente
+* [ext0010-dto_especial](./ext0010-dto_especial) Descuento especial para clientes, aplicado en facturación
+* [ext0013-iva_incluido](./ext0013-iva_incluido) Artículos con PVP establecido con o sin IVA
+* [ext0016-servicios_cli](./ext0016-servicios_cli) Control de prestación de servicios a clientes -reparaciones, asistencia técnica, etc-
+* [ext0019-calidad_prov](./ext0019-calidad_prov) Control de calidad del servicio prestado por proveedores
+* [ext0022-dias_pago_prov](./ext0022-dias_pago_prov) Establecimiento de determinados días del mes como días de pago para un proveedor
+* [ext0042-mail_faturac](./ext0042-mail_faturac) Envío por mail y registro de documentos de facturación
+* [ext0131-fact_periodica](./ext0131-fact_periodica) Sistema de facturación periódica para clientes
+* [ext0196-validar_cif](./ext0196-validar_cif) Validación del CIF / NIF en función del país
+* [ext0202-bloqfacturascli](./ext0202-bloqfacturascli) Bloqueo de Facturas de Clientes
+* [ext0207-pedidos_auto](./ext0207-pedidos_auto) Creación de pedidos a proveedor automáticos a partir de las cantidades en stock
+* [ext0228-efactura](./ext0228-efactura) Factura electrónica
+* [ext0229-gene_albaranesp](./ext0229-gene_albaranesp) Generación de albaranes de proveedor parciales
+* [ext0248-artes_graficas](./ext0248-artes_graficas) Funcionalidad para empresas de artes gráficas
 * [ext0265-publicaciones](./ext0265-publicaciones) Control de publicaciones, suscripciones y facturación de las mismas
 * [ext0281-gene_albaranesc](./ext0281-gene_albaranesc) Generación de albaranes de cliente parciales
-* [ext0292-tallcol_acomp](./ext0292-tallcol_acomp)
-* [ext0297-albparcial_traz](./ext0297-albparcial_traz)  
-* [ext0303-servcli_ivainc](./ext0303-servcli_ivainc)
-* [ext0304-servcli_envases](./ext0304-servcli_envases)
-* [ext0305-servcli_dtoesp](./ext0305-servcli_dtoesp)
-* [ext0308-lineas_largas](./ext0308-lineas_largas)
-* [ext0319-dtoesp_subctav](./ext0319-dtoesp_subctav)
-* [ext0384-numeros_linea](./ext0384-numeros_linea)
-* [ext0385-ofertas_prov](./ext0385-ofertas_prov)
-* [ext0407-dtos_completosc](./ext0407-dtos_completosc)
-* [ext0421-dtos_completosp](./ext0421-dtos_completosp)
+* [ext0292-tallcol_acomp](./ext0292-tallcol_acomp) Tallas y colores con Artículos compuestos
+* [ext0297-albparcial_traz](./ext0297-albparcial_traz) Generación de albaranes parciales de artículos por lotes
+* [ext0303-servcli_ivainc](./ext0303-servcli_ivainc) Iva Incluido en servicios de cliente
+* [ext0304-servcli_envases](./ext0304-servcli_envases) Envases incluidos en servicios de cliente
+* [ext0305-servcli_dtoesp](./ext0305-servcli_dtoesp) Descuento especial en servicios de cliente
+* [ext0308-lineas_largas](./ext0308-lineas_largas) Descripción multilínea en artículos
+* [ext0319-dtoesp_subctav](./ext0319-dtoesp_subctav) Descuento especial con subcuenta de ventas
+* [ext0384-numeros_linea](./ext0384-numeros_linea) Números de línea en docs. facturación y ordenación
+* [ext0385-ofertas_prov](./ext0385-ofertas_prov) Generación y seguimiento de solicitudes de ofertas de proveedores
+* [ext0407-dtos_completosc](./ext0407-dtos_completosc) Descuentos por referencia, cliente, familia y subfamilia
+* [ext0421-dtos_completosp](./ext0421-dtos_completosp) Descuentos por referencia, proveedor, familia y subfamilia
 * [ext0448-partidas_fact](./ext0448-partidas_fact) Facturación por partidas
 * [ext0456-cambio_ejer_alb](./ext0456-cambio_ejer_alb) Cambio de un ejercicio por otro en albaranes
 * [ext0512-edit_fact_bloq](./ext0512-edit_fact_bloq) Edición de facturas bloqueadas
-* [ext0520-gimnasios](./ext0520-gimnasios)
+* [ext0520-gimnasios](./ext0520-gimnasios) Funcionalidad para gimnasios
 * [ext0562-ped_auto_dto](./ext0562-ped_auto_dto) Pedidos automáticos + descuento especial
 * [ext0588-fact_per_dto](./ext0588-fact_per_dto) Facturación periódica + dto especial
 * [ext0602-fras_import](./ext0602-fras_import) Facturas de importación
 * [ext0663-servicioscli_nl](./ext0663-servicioscli_nl) Extensión de servicios a clientes con números de línea
-* [ext0639-dto_total](./ext0639-dto_total)
-* [ext0679-extraescolar](./ext0679-extraescolar)
+* [ext0639-dto_total](./ext0639-dto_total) Descuento sobre el total de la factura
+* [ext0679-extraescolar](./ext0679-extraescolar) Actividades extraescolares
 * [ext0691-pedidos_auto_tc](./ext0691-pedidos_auto_tc) Creación de pedidos a proveedor automáticos a partir de las cantidades en stock de los artículos por barcode
 * [ext0692-contratos_memp](./ext0692-contratos_memp) Contratos multiempresa
-* [ext0715-alquileres](./ext0715-alquileres)
+* [ext0715-alquileres](./ext0715-alquileres) Alquileres de artículos
 * [ext0748-rx_pedidosprov](./ext0748-rx_pedidosprov) Control de recepción de líneas de pedidos de proveedor. Se busca un pedido y se indican las cantidades recibidas de cada línea para poder albaranar lo recibido.
 
 [volver al sub-índice-Facturación](#subindice-facturacion)
