@@ -1,8 +1,8 @@
 ====================================================
-Subfamilias: agrupación de familias en conjuntos
+Ventana de punto de entrada genérico a la aplicación
 ====================================================
 
-Añade una nueva subcategoría dentro de cada familia de artículos: la subfamilia. Cada subfamilia pertenece a una sola familia, y cada artículo puede pertenecer a una única subfamilia o familia.
+Ventana de punto de entrada genérico a la aplicación
 
 ---------------------
 Capturas de pantalla

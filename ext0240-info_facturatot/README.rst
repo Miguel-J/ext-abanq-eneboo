@@ -1,28 +1,28 @@
 ====================================================
-Subfamilias: agrupaci贸n de familias en conjuntos
+Informes totalizados de facturaci贸n por d韆, mes y trimestre
 ====================================================
 
-A帽ade una nueva subcategor铆a dentro de cada familia de art铆culos: la subfamilia. Cada subfamilia pertenece a una sola familia, y cada art铆culo puede pertenecer a una 煤nica subfamilia o familia.
+Informes totalizados de facturaci贸n por d韆, mes y trimestre.
 
 ---------------------
 Capturas de pantalla
 ---------------------
 
-.. figure:: ./doc/edicion_subfamilia.png
+.. figure:: ./doc/ext0240-edicion-ventas-facturatot.jpg
    :width: 500px
    
-   Edici贸n de subfamilia.
+   Edici贸n del informe de ventas.
    
 ------
 
-.. figure:: ./doc/edicion_familia.png
+.. figure:: ./doc/ext0240-icono-menu-ventas-facturatot.jpg
    :width: 500px
     
    Edici贸n de familia con nueva pesta帽a de subfamilias.
    
 ------
 
-.. figure:: ./doc/edicion_articulo.png
+.. figure:: ./doc/ext0240-resultado-ventas-facturatot.jpg
    :width: 500px
     
-   Edici贸n de art铆culo.
+   Resultado del informe.
