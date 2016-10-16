@@ -26,6 +26,7 @@
 3. [ext0075-info_ventasmcli](#3-ext0075-info_ventasmcli) Informe de ventas mensuales por clientes
 4. [ext0337-estventascli](#4-ext0337-estventascli) Pestaña de listado de productos vendidos en el formulario de cliente
 5. [ext0652-info_ventasmfam](#5-ext0652-info_ventasmfam) Informe de ventas mensuales por familias
+* [ext0240-info_facturatot](./ext0240-info_facturatot) Informes totalizados de facturación por día, mes y trimestre
 
 [volver al índice](#indice)
 
@@ -92,7 +93,6 @@
 * [ext0050-info_cta_explot](./ext0050-info_cta_explot) Informe financiero de cuenta de explotación y otros
 * [ext0063-info_pagocobro](./ext0063-info_pagocobro) Informe de previsión de pagos y cobros
 * [ext0167-informes_odt](./ext0167-informes_odt) Informes con formato OpenOffice
-* [ext0240-info_facturatot](./ext0240-info_facturatot) Informes totalizados de facturación por día, mes y trimestre
 
 [volver al sub-índice Otros-Informes](#subindice-otros-informes)
 
