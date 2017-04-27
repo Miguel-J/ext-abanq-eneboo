@@ -1,7 +1,7 @@
 
-### EXTENSIONES agrupadas por tipos
+## EXTENSIONES agrupadas por tipos
 
-#### Indice:
+### Indice:
 
 1. [Extensiones para INFORMES de ESTADÍSTICAS de VENTAS:](#1-de-informes-de-estadisticas-de-ventas)
 2. [Extensiones para INFORMES-OTROS:](#2-de-otros-informes)
@@ -17,7 +17,7 @@
  
 --
 
-#### 1. de INFORMES de ESTADISTICAS de VENTAS:
+### 1. de INFORMES de ESTADISTICAS de VENTAS:
 
 #### Subindice-Ventas:
 
@@ -36,7 +36,7 @@
 
 [ext0039-info_ventasmes](./ext0039-info_ventasmes) 
 
-![imagen resultado] (./ext0039-info_ventasmes/doc/ext0039-resultado-informe-ventas-mes.jpg)
+![imagen resultado](./ext0039-info_ventasmes/doc/ext0039-resultado-informe-ventas-mes.jpg)
 
 [volver al sub-índice Ventas](#subindice-ventas)
 
@@ -46,7 +46,7 @@
 
 [ext0068-info_ventascli](./ext0068-info_ventascli) 
 
-![imagen resultado] (./ext0068-info_ventascli/doc/ext0068-resultado-ventas-cliente.jpg)
+![imagen resultado](./ext0068-info_ventascli/doc/ext0068-resultado-ventas-cliente.jpg)
 
 [volver al sub-índice Ventas](#subindice-ventas)
 
@@ -55,7 +55,7 @@
 
 [ext0075-info_ventasmcli](./ext0075-info_ventasmcli) 
 
-![imagen resultado] (./ext0075-info_ventasmcli/doc/ext0075-resultado-informe-ventasmcli.jpg)
+![imagen resultado](./ext0075-info_ventasmcli/doc/ext0075-resultado-informe-ventasmcli.jpg)
 
 [volver al sub-índice Ventas](#subindice-ventas)
 
@@ -64,7 +64,7 @@
 
 [ext0337-estventascli](./ext0337-estventascli) 
 
-![imagen resultado] (./ext0337-estventascli/doc/ext0337-edicion-criterios-estventascli.jpg)
+![imagen resultado](./ext0337-estventascli/doc/ext0337-edicion-criterios-estventascli.jpg)
 
 [volver al sub-índice Ventas](#subindice-ventas)
 
@@ -74,7 +74,7 @@
 
 [ext0652-info_ventasmfam](./ext0652-info_ventasmfam) 
 
-![imagen resultado] (./ext0652-info_ventasmfam/doc/ext0652-resultado-informe-ventasmfam.jpg)
+![imagen resultado](./ext0652-info_ventasmfam/doc/ext0652-resultado-informe-ventasmfam.jpg)
 
 [volver al sub-índice Ventas](#subindice-ventas)
 
@@ -86,14 +86,14 @@
 
 [ext0240-info_facturatot](./ext0240-info_facturatot) 
 
-![imagen resultado] (./ext0240-info_facturatot/doc/ext0240-info_facturatot.jpg)
+![imagen resultado](./ext0240-info_facturatot/doc/ext0240-info_facturatot.jpg)
 
 [volver al sub-índice Ventas](#subindice-ventas)
 
 [volver al índice](#indice)
 
 
-#### 2. de OTROS INFORMES:
+### 2. de OTROS INFORMES:
 
 #### Subindice-Otros-Informes:
 
@@ -113,7 +113,7 @@
 
 --
 
-#### 3. de CONTABILIDAD:
+### 3. de CONTABILIDAD:
 
 #### Subindice-Contabilidad:
 
