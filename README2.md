@@ -26,13 +26,13 @@
 3. [ext0075-info_ventasmcli](#3-ext0075-info_ventasmcli) Informe de ventas mensuales por clientes
 4. [ext0337-estventascli](#4-ext0337-estventascli) Pestaña de listado de productos vendidos en el formulario de cliente
 5. [ext0652-info_ventasmfam](#5-ext0652-info_ventasmfam) Informe de ventas mensuales por familias
-* [ext0240-info_facturatot](./ext0240-info_facturatot) Informes totalizados de facturación por día, mes y trimestre
+6. [ext0240-info_facturatot](#6-ext0240-info_facturatot) Informes totalizados de facturación por día, mes y trimestre
 
 [volver al índice](#indice)
 
 --
 
-####1. ext0039-info_ventasmes. 
+#### 1. ext0039-info_ventasmes. 
 
 [ext0039-info_ventasmes](./ext0039-info_ventasmes) 
 
@@ -41,7 +41,8 @@
 [volver al sub-índice Ventas](#subindice-ventas)
 
 --
-####2. ext0068-info_ventascli
+
+#### 2. ext0068-info_ventascli
 
 [ext0068-info_ventascli](./ext0068-info_ventascli) 
 
@@ -50,7 +51,7 @@
 [volver al sub-índice Ventas](#subindice-ventas)
 
 --
-####3. ext0075-info_ventasmcli
+#### 3. ext0075-info_ventasmcli
 
 [ext0075-info_ventasmcli](./ext0075-info_ventasmcli) 
 
@@ -68,7 +69,8 @@
 [volver al sub-índice Ventas](#subindice-ventas)
 
 --
-####5. ext0652-info_ventasmfam
+
+#### 5. ext0652-info_ventasmfam
 
 [ext0652-info_ventasmfam](./ext0652-info_ventasmfam) 
 
@@ -79,6 +81,17 @@
 [volver al índice](#indice)
 
 --
+
+#### 6. ext0240-info_facturatot
+
+[ext0240-info_facturatot](./ext0240-info_facturatot) 
+
+![imagen resultado] (./ext0240-info_facturatot/doc/ext0240-info_facturatot.jpg)
+
+[volver al sub-índice Ventas](#subindice-ventas)
+
+[volver al índice](#indice)
+
 
 #### 2. de OTROS INFORMES:
 
