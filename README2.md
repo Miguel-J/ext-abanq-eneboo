@@ -60,7 +60,8 @@
 [volver al sub-índice Ventas](#subindice-ventas)
 
 --
-####4. ext0337-estventascli
+
+#### 4. ext0337-estventascli
 
 [ext0337-estventascli](./ext0337-estventascli) 
 
@@ -80,7 +81,7 @@
 
 [volver al índice](#indice)
 
---
+---
 
 #### 6. ext0240-info_facturatot
 
@@ -111,7 +112,7 @@
 
 [volver al índice](#indice)
 
---
+---
 
 ### 3. de CONTABILIDAD:
 
@@ -153,9 +154,9 @@
 
 [volver al índice](#indice)
 
---
+---
 
-#### 4. de ALMACEN:
+### 4. de ALMACEN:
 
 #### Subindice-Almacen:
 
@@ -191,9 +192,9 @@
 
 [volver al índice](#indice)
 
---
+---
 
-#### 5. de TESORERIA:
+### 5. de TESORERIA:
 
 #### Subindice-Tesoreria:
 
@@ -236,9 +237,9 @@
 
 [volver al índice](#indice)
 
---
+---
 
-#### 6. de TPV:
+### 6. de TPV:
 
 #### Subindice-TPV:
 
@@ -268,9 +269,9 @@
 
 [volver al índice](#indice)
 
---
+---
 
-#### 7. de TRANSPORTE:
+### 7. de TRANSPORTE:
 
 #### Subindice-Transporte:
 
@@ -288,9 +289,9 @@
 
 [volver al índice](#indice)
 
---
+---
 
-#### 8. de FACTURACION:
+### 8. de FACTURACION:
 
 #### Subindice-Facturacion:
 
@@ -342,9 +343,9 @@
 
 [volver al índice](#indice)
 
---
+---
 
-#### 9. de FACTURACION-PRINCIPAL:
+### 9. de FACTURACION-PRINCIPAL:
 
 #### Subindice-Facturacion-Principal:
 
@@ -369,9 +370,9 @@
 
 [volver al índice](#indice)
 
---
+---
 
-#### 10. de SISTEMA:
+### 10. de SISTEMA:
 
 #### Subindice-Sistema:
 
@@ -409,10 +410,10 @@
 
 [volver al índice](#indice)
 
---
+---
 
 
-#### 11. de CRM:
+### 11. de CRM:
 
 #### Subindice-CRM:
 
@@ -432,4 +433,4 @@
 
 [volver al índice](#indice)
 
---
+---
